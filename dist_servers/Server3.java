@@ -6,51 +6,51 @@ import com.google.protobuf.*;
 
 public class Server3 {
     private static final int SERVER_PORT = 5003;
-    private static final int OTHER_SERVER_PORT_1 = 5001;
-    private static final int OTHER_SERVER_PORT_2 = 5002;
+    private static final int CONNECTED_SERVER_PORT_1 = 5001;
+    private static final int CONNECTED_SERVER_PORT_2 = 5002;
     private static final String ADMIN_HOST = "localhost";
     private static final int ADMIN_PORT = 4003;
 
-    private static final Map<Integer, String> subscriberBackup = new ConcurrentHashMap<>();
-    private static final int faultToleranceLevel = 2;
+    private static final Map<Integer, String> subscriberRegistry = new ConcurrentHashMap<>();
+    private static final int faultToleranceThreshold = 2;
     private static ServerSocket serverSocket;
 
     public static void main(String[] args) {
         try {
             serverSocket = new ServerSocket(SERVER_PORT);
-            System.out.println("Server3 running on port: " + SERVER_PORT);
+            System.out.println("Server3 is active on port: " + SERVER_PORT);
 
-            // Thread: Client'tan gelen abonelik bilgilerini al
-            new Thread(Server3::acceptClients).start();
+            // Thread: Accept and process client subscription requests
+            new Thread(Server3::acceptClientConnections).start();
 
-            // Thread: Diğer serverlardan gelen abonelik bilgilerini al
-            new Thread(Server3::receiveUpdatesFromOtherServers).start();
+            // Thread: Handle updates from other servers
+            new Thread(Server3::processServerUpdates).start();
 
-            // Thread: Admin'e kapasite bilgisi gönder
-            new Thread(Server3::sendCapacityPeriodically).start();
+            // Thread: Periodically send server capacity info to admin
+            new Thread(Server3::sendPeriodicCapacityUpdates).start();
 
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private static void acceptClients() {
+    private static void acceptClientConnections() {
         while (true) {
             try {
                 Socket clientSocket = serverSocket.accept();
-                handleClient(clientSocket);
+                processClientRequest(clientSocket);
             } catch (IOException e) {
-                System.err.println("Hata: Client bağlantısı kabul edilemedi.");
+                System.err.println("Error: Unable to accept client connection.");
                 e.printStackTrace();
             }
         }
     }
 
-    private static void receiveUpdatesFromOtherServers() {
+    private static void processServerUpdates() {
         while (true) {
-            try (ServerSocket serverSocket = new ServerSocket(SERVER_PORT + 1000)) { // Dinleme portu
+            try (ServerSocket updateServerSocket = new ServerSocket(SERVER_PORT + 1000)) { // Listening port for updates
                 while (true) {
-                    try (Socket socket = serverSocket.accept();
+                    try (Socket socket = updateServerSocket.accept();
                          BufferedReader reader = new BufferedReader(new InputStreamReader(socket.getInputStream()))) {
 
                         String line;
@@ -59,8 +59,8 @@ public class Server3 {
                             if (parts.length == 2) {
                                 int id = Integer.parseInt(parts[0]);
                                 String name = parts[1];
-                                subscriberBackup.put(id, name);
-                                System.out.println("Subscriber received from another server: " + id + " - " + name);
+                                subscriberRegistry.put(id, name);
+                                System.out.println("Subscriber data received from another server: " + id + " - " + name);
                             }
                         }
                     }
@@ -72,19 +72,19 @@ public class Server3 {
         }
     }
 
-    private static void handleClient(Socket clientSocket) {
+    private static void processClientRequest(Socket clientSocket) {
         try (InputStream input = clientSocket.getInputStream();
              OutputStream output = clientSocket.getOutputStream()) {
 
             SubscriberOuterClass.Subscriber subscriber = SubscriberOuterClass.Subscriber.parseFrom(input);
 
             if (subscriber.getDemand() == SubscriberOuterClass.Subscriber.Demand.SUBS) {
-                subscriberBackup.put(subscriber.getID(), subscriber.getNameSurname());
-                System.out.println("Subscriber added: " + subscriber);
-                sendToOtherServers(subscriber);
+                subscriberRegistry.put(subscriber.getID(), subscriber.getNameSurname());
+                System.out.println("New subscriber added: " + subscriber);
+                forwardSubscriberToOtherServers(subscriber);
 
             } else if (subscriber.getDemand() == SubscriberOuterClass.Subscriber.Demand.DEL) {
-                subscriberBackup.remove(subscriber.getID());
+                subscriberRegistry.remove(subscriber.getID());
                 System.out.println("Subscriber removed: " + subscriber);
             }
 
@@ -93,56 +93,56 @@ public class Server3 {
         }
     }
 
-    private static void sendToOtherServers(SubscriberOuterClass.Subscriber subscriber) {
+    private static void forwardSubscriberToOtherServers(SubscriberOuterClass.Subscriber subscriber) {
         String message = subscriber.getID() + "," + subscriber.getNameSurname();
 
-        if (faultToleranceLevel >= 1) {
-            sendStringToServer(OTHER_SERVER_PORT_1 + 1000, message);
+        if (faultToleranceThreshold >= 1) {
+            sendToServer(CONNECTED_SERVER_PORT_1 + 1000, message);
         }
-        if (faultToleranceLevel == 2) {
-            sendStringToServer(OTHER_SERVER_PORT_2 + 1000, message);
+        if (faultToleranceThreshold == 2) {
+            sendToServer(CONNECTED_SERVER_PORT_2 + 1000, message);
         }
     }
 
-    private static void sendStringToServer(int port, String message) {
+    private static void sendToServer(int port, String message) {
         try (Socket socket = new Socket("localhost", port);
              PrintWriter writer = new PrintWriter(socket.getOutputStream(), true)) {
 
             writer.println(message);
 
         } catch (IOException e) {
-            System.err.println("Failed to send string to server on port: " + port);
+            System.err.println("Failed to send message to server on port: " + port);
             e.printStackTrace();
         }
     }
 
-    private static void sendCapacityPeriodically() {
+    private static void sendPeriodicCapacityUpdates() {
         while (true) {
             try {
-                sendCapacityToAdmin();
+                sendCapacityInfoToAdmin();
                 Thread.sleep(2000);
             } catch (InterruptedException e) {
-                System.err.println("Hata: sendCapacityPeriodically kesildi.");
+                System.err.println("Error: Periodic capacity update interrupted.");
                 e.printStackTrace();
             }
         }
     }
 
-    private static void sendCapacityToAdmin() {
+    private static void sendCapacityInfoToAdmin() {
         try (Socket socket = new Socket(ADMIN_HOST, ADMIN_PORT);
              OutputStream output = socket.getOutputStream()) {
 
             CapacityOuterClass.Capacity capacity = CapacityOuterClass.Capacity.newBuilder()
-                    .setSubscriberCount(subscriberBackup.size())
+                    .setSubscriberCount(subscriberRegistry.size())
                     .build();
 
             capacity.writeTo(output);
             output.flush();
 
-            System.out.println("Capacity sent to admin: " + subscriberBackup.size());
+            System.out.println("Capacity info sent to admin: " + subscriberRegistry.size());
 
         } catch (IOException e) {
-            System.err.println("Failed to send capacity to admin.");
+            System.err.println("Failed to send capacity info to admin.");
             e.printStackTrace();
         }
     }

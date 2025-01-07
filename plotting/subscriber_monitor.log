@@ -1,0 +1,186 @@
+2025-01-04 01:05:18,741 - INFO - Starting Subscriber Monitor
+2025-01-04 01:05:18,741 - INFO - Server listening on localhost:6000
+2025-01-04 01:07:56,840 - INFO - New connection from ('127.0.0.1', 51543)
+2025-01-04 01:07:56,867 - INFO - Updated Server3: 1 subscribers
+2025-01-04 01:07:57,066 - INFO - New connection from ('127.0.0.1', 51545)
+2025-01-04 01:07:57,078 - INFO - Updated Server2: 1 subscribers
+2025-01-04 01:07:58,215 - INFO - New connection from ('127.0.0.1', 51547)
+2025-01-04 01:07:58,228 - INFO - Updated Server1: 1 subscribers
+2025-01-04 01:08:00,847 - INFO - New connection from ('127.0.0.1', 51555)
+2025-01-04 01:08:00,867 - INFO - Updated Server3: 1 subscribers
+2025-01-04 01:08:01,089 - INFO - New connection from ('127.0.0.1', 51557)
+2025-01-04 01:08:01,132 - INFO - Updated Server2: 1 subscribers
+2025-01-04 01:08:02,217 - INFO - New connection from ('127.0.0.1', 51559)
+2025-01-04 01:08:02,217 - INFO - Updated Server1: 1 subscribers
+2025-01-04 01:08:04,853 - INFO - New connection from ('127.0.0.1', 51567)
+2025-01-04 01:08:04,881 - INFO - Updated Server3: 1 subscribers
+2025-01-04 01:08:05,082 - INFO - New connection from ('127.0.0.1', 51569)
+2025-01-04 01:08:05,103 - INFO - Updated Server2: 1 subscribers
+2025-01-04 01:08:06,234 - INFO - New connection from ('127.0.0.1', 51571)
+2025-01-04 01:08:06,270 - INFO - Updated Server1: 1 subscribers
+2025-01-04 01:08:08,886 - INFO - New connection from ('127.0.0.1', 51579)
+2025-01-04 01:08:08,914 - INFO - Updated Server3: 1 subscribers
+2025-01-04 01:08:09,104 - INFO - New connection from ('127.0.0.1', 51581)
+2025-01-04 01:08:09,135 - INFO - Updated Server2: 1 subscribers
+2025-01-04 01:08:10,270 - INFO - New connection from ('127.0.0.1', 51585)
+2025-01-04 01:08:10,297 - INFO - Updated Server1: 1 subscribers
+2025-01-04 01:08:12,897 - INFO - New connection from ('127.0.0.1', 51593)
+2025-01-04 01:08:12,898 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:08:13,117 - INFO - New connection from ('127.0.0.1', 51595)
+2025-01-04 01:08:13,154 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:08:14,297 - INFO - New connection from ('127.0.0.1', 51597)
+2025-01-04 01:08:14,325 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:08:16,885 - INFO - New connection from ('127.0.0.1', 51605)
+2025-01-04 01:08:16,912 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:08:17,113 - INFO - New connection from ('127.0.0.1', 51607)
+2025-01-04 01:08:17,131 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:08:18,302 - INFO - New connection from ('127.0.0.1', 51609)
+2025-01-04 01:08:18,317 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:08:20,958 - INFO - New connection from ('127.0.0.1', 51617)
+2025-01-04 01:08:20,974 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:08:21,130 - INFO - New connection from ('127.0.0.1', 51619)
+2025-01-04 01:08:21,163 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:08:22,325 - INFO - New connection from ('127.0.0.1', 51621)
+2025-01-04 01:08:22,341 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:08:24,954 - INFO - New connection from ('127.0.0.1', 51629)
+2025-01-04 01:08:24,963 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:08:25,151 - INFO - New connection from ('127.0.0.1', 51631)
+2025-01-04 01:08:25,187 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:08:26,354 - INFO - New connection from ('127.0.0.1', 51636)
+2025-01-04 01:08:26,387 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:08:28,971 - INFO - New connection from ('127.0.0.1', 51644)
+2025-01-04 01:08:28,984 - INFO - Updated Server3: 3 subscribers
+2025-01-04 01:08:29,158 - INFO - New connection from ('127.0.0.1', 51646)
+2025-01-04 01:08:29,180 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:08:30,338 - INFO - New connection from ('127.0.0.1', 51648)
+2025-01-04 01:08:30,357 - INFO - Updated Server1: 3 subscribers
+2025-01-04 01:08:32,985 - INFO - New connection from ('127.0.0.1', 51656)
+2025-01-04 01:08:32,998 - INFO - Updated Server3: 3 subscribers
+2025-01-04 01:08:33,149 - INFO - New connection from ('127.0.0.1', 51658)
+2025-01-04 01:08:33,165 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:08:34,363 - INFO - New connection from ('127.0.0.1', 51660)
+2025-01-04 01:08:34,373 - INFO - Updated Server1: 3 subscribers
+2025-01-04 01:08:37,003 - INFO - New connection from ('127.0.0.1', 51669)
+2025-01-04 01:08:37,011 - INFO - Updated Server3: 3 subscribers
+2025-01-04 01:08:37,190 - INFO - New connection from ('127.0.0.1', 51671)
+2025-01-04 01:08:37,206 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:08:38,368 - INFO - New connection from ('127.0.0.1', 51673)
+2025-01-04 01:08:38,411 - INFO - Updated Server1: 3 subscribers
+2025-01-04 01:08:41,033 - INFO - New connection from ('127.0.0.1', 51681)
+2025-01-04 01:08:41,048 - INFO - Updated Server3: 3 subscribers
+2025-01-04 01:08:41,234 - INFO - New connection from ('127.0.0.1', 51683)
+2025-01-04 01:08:41,250 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:08:42,376 - INFO - New connection from ('127.0.0.1', 51685)
+2025-01-04 01:08:42,386 - INFO - Updated Server1: 3 subscribers
+2025-01-04 01:08:45,040 - INFO - New connection from ('127.0.0.1', 51693)
+2025-01-04 01:08:45,059 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:08:45,244 - INFO - New connection from ('127.0.0.1', 51695)
+2025-01-04 01:08:45,260 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:08:46,398 - INFO - New connection from ('127.0.0.1', 51697)
+2025-01-04 01:08:46,421 - INFO - Updated Server1: 3 subscribers
+2025-01-04 01:08:49,039 - INFO - New connection from ('127.0.0.1', 51705)
+2025-01-04 01:08:49,060 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:08:49,248 - INFO - New connection from ('127.0.0.1', 51707)
+2025-01-04 01:08:49,281 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:08:50,395 - INFO - New connection from ('127.0.0.1', 51709)
+2025-01-04 01:08:50,401 - INFO - Updated Server1: 3 subscribers
+2025-01-04 01:08:53,081 - INFO - New connection from ('127.0.0.1', 51718)
+2025-01-04 01:08:53,100 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:08:53,277 - INFO - New connection from ('127.0.0.1', 51720)
+2025-01-04 01:08:53,289 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:08:54,422 - INFO - New connection from ('127.0.0.1', 51722)
+2025-01-04 01:08:54,453 - INFO - Updated Server1: 3 subscribers
+2025-01-04 01:08:57,105 - INFO - New connection from ('127.0.0.1', 51730)
+2025-01-04 01:08:57,105 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:08:57,289 - INFO - New connection from ('127.0.0.1', 51732)
+2025-01-04 01:08:57,291 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:08:58,457 - INFO - New connection from ('127.0.0.1', 51734)
+2025-01-04 01:08:58,480 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:01,122 - INFO - New connection from ('127.0.0.1', 51742)
+2025-01-04 01:09:01,144 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:01,303 - INFO - New connection from ('127.0.0.1', 51744)
+2025-01-04 01:09:01,316 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:09:02,435 - INFO - New connection from ('127.0.0.1', 51746)
+2025-01-04 01:09:02,441 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:05,129 - INFO - New connection from ('127.0.0.1', 51754)
+2025-01-04 01:09:05,136 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:05,297 - INFO - New connection from ('127.0.0.1', 51756)
+2025-01-04 01:09:05,340 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:09:06,483 - INFO - New connection from ('127.0.0.1', 51758)
+2025-01-04 01:09:06,499 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:09,150 - INFO - New connection from ('127.0.0.1', 51767)
+2025-01-04 01:09:09,157 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:09,315 - INFO - New connection from ('127.0.0.1', 51769)
+2025-01-04 01:09:09,344 - INFO - Updated Server2: 3 subscribers
+2025-01-04 01:09:10,469 - INFO - New connection from ('127.0.0.1', 51771)
+2025-01-04 01:09:10,489 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:13,167 - INFO - New connection from ('127.0.0.1', 51779)
+2025-01-04 01:09:13,169 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:13,380 - INFO - New connection from ('127.0.0.1', 51781)
+2025-01-04 01:09:13,404 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:14,512 - INFO - New connection from ('127.0.0.1', 51783)
+2025-01-04 01:09:14,543 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:17,172 - INFO - New connection from ('127.0.0.1', 51791)
+2025-01-04 01:09:17,206 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:17,379 - INFO - New connection from ('127.0.0.1', 51793)
+2025-01-04 01:09:17,401 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:18,516 - INFO - New connection from ('127.0.0.1', 51795)
+2025-01-04 01:09:18,535 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:21,186 - INFO - New connection from ('127.0.0.1', 51803)
+2025-01-04 01:09:21,194 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:21,387 - INFO - New connection from ('127.0.0.1', 51805)
+2025-01-04 01:09:21,406 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:22,526 - INFO - New connection from ('127.0.0.1', 51807)
+2025-01-04 01:09:22,544 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:25,234 - INFO - New connection from ('127.0.0.1', 51815)
+2025-01-04 01:09:25,256 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:25,406 - INFO - New connection from ('127.0.0.1', 51817)
+2025-01-04 01:09:25,422 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:26,566 - INFO - New connection from ('127.0.0.1', 51819)
+2025-01-04 01:09:26,594 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:29,219 - INFO - New connection from ('127.0.0.1', 51827)
+2025-01-04 01:09:29,220 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:29,407 - INFO - New connection from ('127.0.0.1', 51829)
+2025-01-04 01:09:29,420 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:30,562 - INFO - New connection from ('127.0.0.1', 51831)
+2025-01-04 01:09:30,578 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:33,238 - INFO - New connection from ('127.0.0.1', 51839)
+2025-01-04 01:09:33,259 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:33,414 - INFO - New connection from ('127.0.0.1', 51841)
+2025-01-04 01:09:33,427 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:34,573 - INFO - New connection from ('127.0.0.1', 51843)
+2025-01-04 01:09:34,599 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:37,252 - INFO - New connection from ('127.0.0.1', 51851)
+2025-01-04 01:09:37,276 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:37,434 - INFO - New connection from ('127.0.0.1', 51853)
+2025-01-04 01:09:37,440 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:38,588 - INFO - New connection from ('127.0.0.1', 51855)
+2025-01-04 01:09:38,606 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:41,297 - INFO - New connection from ('127.0.0.1', 51863)
+2025-01-04 01:09:41,313 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:41,450 - INFO - New connection from ('127.0.0.1', 51865)
+2025-01-04 01:09:41,467 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:42,598 - INFO - New connection from ('127.0.0.1', 51867)
+2025-01-04 01:09:42,655 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:45,281 - INFO - New connection from ('127.0.0.1', 51875)
+2025-01-04 01:09:45,287 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:45,445 - INFO - New connection from ('127.0.0.1', 51877)
+2025-01-04 01:09:45,451 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:46,617 - INFO - New connection from ('127.0.0.1', 51879)
+2025-01-04 01:09:46,629 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:49,288 - INFO - New connection from ('127.0.0.1', 51887)
+2025-01-04 01:09:49,301 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:49,510 - INFO - New connection from ('127.0.0.1', 51889)
+2025-01-04 01:09:49,510 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:50,602 - INFO - New connection from ('127.0.0.1', 51891)
+2025-01-04 01:09:50,607 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:53,295 - INFO - New connection from ('127.0.0.1', 51899)
+2025-01-04 01:09:53,295 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:53,511 - INFO - New connection from ('127.0.0.1', 51901)
+2025-01-04 01:09:53,524 - INFO - Updated Server2: 2 subscribers
+2025-01-04 01:09:54,626 - INFO - New connection from ('127.0.0.1', 51903)
+2025-01-04 01:09:54,631 - INFO - Updated Server1: 2 subscribers
+2025-01-04 01:09:57,312 - INFO - New connection from ('127.0.0.1', 51911)
+2025-01-04 01:09:57,322 - INFO - Updated Server3: 2 subscribers
+2025-01-04 01:09:57,538 - INFO - New connection from ('127.0.0.1', 51913)
+2025-01-04 01:09:57,553 - INFO - Updated Server2: 2 subscribers

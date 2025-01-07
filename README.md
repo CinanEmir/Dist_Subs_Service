@@ -15,15 +15,15 @@ protoc --java_out=. Subscriber.proto
 ### 2. dist_servers Klasöründe Sunucuları Derleme
 Server.java dosyalarını derlemek için aşağıdaki komutu çalıştırın:
 ```sh
-javac -cp ".;com/google/protobuf/protobuf-java-4.28.3.jar" *.java
+javac -cp ".;com/google/protobuf/protobuf-java-4.29.1.jar" *.java
 ```
 
 ### 3. dist_servers Klasöründe Sunucuları Çalıştırma
 Sunucuları sırayla çalıştırmak için aşağıdaki komutları kullanın:
 ```sh
-java -cp ".;com/google/protobuf/protobuf-java-4.28.3.jar" Server1
-java -cp ".;com/google/protobuf/protobuf-java-4.28.3.jar" Server2
-java -cp ".;com/google/protobuf/protobuf-java-4.28.3.jar" Server3
+java -cp ".;com/google/protobuf/protobuf-java-4.29.1.jar" Server1
+java -cp ".;com/google/protobuf/protobuf-java-4.29.1.jar" Server2
+java -cp ".;com/google/protobuf/protobuf-java-4.29.1.jar" Server3
 ```
 
 ### 4. panel Klasöründe Ruby Dosyalarını Derleme
@@ -59,15 +59,15 @@ protoc --java_out=. Subscriber.proto
 ### 9. Clients Klasöründe Java Dosyalarını Derleme
 Client.java dosyalarını derlemek için şu komutu çalıştırın:
 ```sh
-javac -cp ".;com/google/protobuf/protobuf-java-4.28.3.jar" *.java
+javac -cp ".;com/google/protobuf/protobuf-java-4.29.1.jar" *.java
 ```
 
 ### 10. Clients Klasöründe Java Dosyalarını Sırasıyla çalıştırma
 Client.java dosyalarını çalıştırmak için şu komutları çalıştırın:
 ```sh
-java -cp ".;com/google/protobuf/protobuf-java-4.28.3.jar" Client
-java -cp ".;com/google/protobuf/protobuf-java-4.28.3.jar" Client1
-java -cp ".;com/google/protobuf/protobuf-java-4.28.3.jar" Client2
+java -cp ".;com/google/protobuf/protobuf-java-4.29.1.jar" SubscriptionClient
+java -cp ".;com/google/protobuf/protobuf-java-4.29.1.jar" SubscriptionClient1
+java -cp ".;com/google/protobuf/protobuf-java-4.29.1.jar" SubscriptionClient2
 ```
 
 ## Tamamlanan Gorevler:
