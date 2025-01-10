@@ -1,7 +1,7 @@
 # Dağıtık Abonelik Sistemi (Distributed Subscriber Service)
 
 ## Proje Hakkında
-Bu proje, Java, Ruby ve Python dilleriyle dağıtık bir sistem uygulamasını içerir. Sistem, sunucular arasında iletişim kurarak veri akışını sağlar ve belirli görevleri yerine getirir. Projede kullanılan Google Protocol Buffers (Protobuf) sayesinde farklı diller arasında veri alışverişi kolaylaştırılmıştır.
+Bu proje, Java, Ruby ve Python dillerini kullanarak bir dağıtık sistem uygulamasını hayata geçirmektedir. Sistem, sunucular arasında iletişim sağlayarak veri akışını yönetir ve belirli görevleri yerine getirir. Projede yer alan Google Protocol Buffers (Protobuf) ise farklı programlama dilleri arasında veri alışverişini daha verimli ve kolay hale getirmektedir.
 
 ## Kurulum ve Çalıştırma Adımları
 
@@ -73,16 +73,17 @@ java -cp ".;com/google/protobuf/protobuf-java-4.29.1.jar" SubscriptionClient2
 ## Tamamlanan Gorevler:
 - **Ruby Scripti (admin.rb):**
   - Ruby scripti admin.rb, Server.java dosyalarıyla bağlantı kurabiliyor.
-  - Ayrıca, admin.rb ile Python scripti plotter.py arasında da bağlantı sağlanmıştır.
+  - Ayrıca, admin.rb ile Python scripti plotter.py arasında başarılı bir bağlantı kurulmuştur.
 
 - **Server.java İletişimi:**
-  - Server.java dosyaları kendi aralarında başarıyla abone bilgilerini paylaşabiliyor ve yedekleme işlemlerini gerçekleştirebiliyor. Bu, sunucuların birbirleriyle etkili bir şekilde iletişim kurabildiğini göstermektedir.
+  - Sunucular, birbirleriyle etkili bir şekilde iletişim kurarak abone bilgilerini başarıyla paylaşabiliyor ve yedekleme işlemlerini sorunsuz bir şekilde gerçekleştirebiliyor.
 
-## Proje Hakkında Kapanış Notları
-Bu proje, dağıtık sistemler, protokol tasarımı ve çok dilli programlama yaklaşımları hakkında derin bir anlayış sağladı. Her adımda detaylı testler yapıldı ve sistemin belirli kısımları başarıyla çalıştırıldı.
+### Ekip üyeleri :
+-Muhammed Emir Cinan (22060328) 
+-İsmail Enes Öztürk (22060383)
+-Mehmet Er (22060327)
 
-Projenin geliştirilmesi sırasında büyük bir emek harcanmıştır.
-
-
+### Sunum Videosu Linki :
+https://www.youtube.com/watch?v=sTMA-Rm_tvw
 
 
