@@ -40,27 +40,27 @@ class AdminPanel
   def setup_server_connection(port)
     begin
       server = TCPServer.new(port)
-      @logger.info("Server listening on port #{port}")
+      @logger.info("Bağlantı noktasında sunucu dinliyor #{port}")
 
       loop do
         begin
           client = server.accept
           handle_client(client, port)
         rescue => e
-          @logger.error("Error handling client on port #{port}: #{e.message}")
+          @logger.error("Bağlantı noktasında istemci işlenirken hata oluştu #{port}: #{e.message}")
           handle_connection_error(port)
         ensure
           client&.close
         end
       end
     rescue => e
-      @logger.error("Failed to start server on port #{port}: #{e.message}")
+      @logger.error("Bağlantı noktasında sunucu başlatılamadı #{port}: #{e.message}")
       retry_connection(port)
     end
   end
 
   def handle_client(socket, port)
-    @logger.info("Client connected on port #{port}")
+    @logger.info("Bağlantı noktasına bağlı istemci #{port}")
     @connection_retries[port] = 0 # Başarılı bağlantıda sayacı sıfırla
 
     begin
@@ -68,21 +68,21 @@ class AdminPanel
         process_capacity_data(data, port)
       end
     rescue EOFError
-      @logger.info("Client disconnected on port #{port}")
+      @logger.info("Bağlantı noktasında istemcinin bağlantısı kesildi #{port}")
     rescue => e
-      @logger.error("Error processing client on port #{port}: #{e.message}")
+      @logger.error("Bağlantı noktasında istemci işlenirken hata oluştu #{port}: #{e.message}")
       handle_connection_error(port)
     end
   end
 
   def process_capacity_data(data, port)
     capacity = Capacity.decode(data)
-    @logger.info("Received capacity on port #{port}: #{capacity.subscriber_count}")
+    @logger.info("Limanda alınan kapasite #{port}: #{capacity.subscriber_count}")
     
     if valid_subscriber_count?(capacity.subscriber_count)
       send_to_plotter(capacity.subscriber_count, port)
     else
-      @logger.warn("Invalid subscriber count received on port #{port}")
+      @logger.warn("Bağlantı noktasında geçersiz abone sayısı alındı #{port}")
     end
   end
 
@@ -101,16 +101,16 @@ class AdminPanel
       
       @plotter_socket.write(capacity.to_proto)
       @plotter_socket.flush
-      @logger.info("Sent subscriber count to plotter: #{subscriber_count}")
+      @logger.info("Abone sayısı çiziciye gönderildi: #{subscriber_count}")
     rescue => e
-      @logger.error("Error sending to plotter: #{e.message}")
+      @logger.error("Çiziciye gönderme hatası: #{e.message}")
       reset_plotter_connection
     end
   end
 
   def establish_plotter_connection
     @plotter_socket = TCPSocket.new(ADMIN_HOST, PYTHON_SERVER_PORT)
-    @logger.info("Established new plotter connection")
+    @logger.info("Yeni çizici bağlantısı kuruldu")
   end
 
   def reset_plotter_connection
@@ -121,13 +121,13 @@ class AdminPanel
   def handle_connection_error(port)
     @connection_retries[port] += 1
     if @connection_retries[port] >= MAX_RETRIES
-      @logger.error("Max retries reached for port #{port}")
+      @logger.error("Bağlantı noktası için maksimum yeniden deneme sayısına ulaşıldı #{port}")
     end
   end
 
   def retry_connection(port)
     if @connection_retries[port] < MAX_RETRIES
-      @logger.info("Retrying connection on port #{port}")
+      @logger.info("Bağlantı noktasında bağlantı yeniden deneniyor #{port}")
       sleep RECONNECT_TIMEOUT
       setup_server_connection(port)
     end

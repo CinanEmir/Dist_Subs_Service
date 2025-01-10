@@ -1,0 +1,1627 @@
+2025-01-09 18:34:07,533 - INFO - Abone Monitörü Baþlatýlýyor
+2025-01-09 18:34:07,536 - INFO - Sunucu localhost:6000 adresinde dinliyor
+2025-01-09 18:36:27,818 - INFO - ('127.0.0.1', 52669) adresinden yeni baðlantý
+2025-01-09 18:36:27,842 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-09 18:36:28,655 - INFO - ('127.0.0.1', 52671) adresinden yeni baðlantý
+2025-01-09 18:36:28,673 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-09 18:36:29,099 - INFO - ('127.0.0.1', 52673) adresinden yeni baðlantý
+2025-01-09 18:36:29,100 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-09 18:36:31,838 - INFO - ('127.0.0.1', 52681) adresinden yeni baðlantý
+2025-01-09 18:36:31,864 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-09 18:36:32,384 - INFO - ('127.0.0.1', 52683) adresinden yeni baðlantý
+2025-01-09 18:36:32,411 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-09 18:36:33,149 - INFO - ('127.0.0.1', 52685) adresinden yeni baðlantý
+2025-01-09 18:36:33,149 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-09 18:36:35,842 - INFO - ('127.0.0.1', 52693) adresinden yeni baðlantý
+2025-01-09 18:36:35,858 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-09 18:36:36,391 - INFO - ('127.0.0.1', 52695) adresinden yeni baðlantý
+2025-01-09 18:36:36,406 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-09 18:36:37,163 - INFO - ('127.0.0.1', 52699) adresinden yeni baðlantý
+2025-01-09 18:36:37,184 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-09 18:36:39,893 - INFO - ('127.0.0.1', 52707) adresinden yeni baðlantý
+2025-01-09 18:36:39,917 - INFO - Sunucu2 güncellendi: 2 abone
+2025-01-09 18:36:40,435 - INFO - ('127.0.0.1', 52709) adresinden yeni baðlantý
+2025-01-09 18:36:40,461 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:36:41,202 - INFO - ('127.0.0.1', 52711) adresinden yeni baðlantý
+2025-01-09 18:36:41,222 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:36:43,878 - INFO - ('127.0.0.1', 52721) adresinden yeni baðlantý
+2025-01-09 18:36:43,904 - INFO - Sunucu2 güncellendi: 2 abone
+2025-01-09 18:36:44,440 - INFO - ('127.0.0.1', 52723) adresinden yeni baðlantý
+2025-01-09 18:36:44,482 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:36:45,219 - INFO - ('127.0.0.1', 52725) adresinden yeni baðlantý
+2025-01-09 18:36:45,244 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-09 18:36:47,917 - INFO - ('127.0.0.1', 52733) adresinden yeni baðlantý
+2025-01-09 18:36:47,957 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:36:48,476 - INFO - ('127.0.0.1', 52735) adresinden yeni baðlantý
+2025-01-09 18:36:48,501 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:36:49,241 - INFO - ('127.0.0.1', 52737) adresinden yeni baðlantý
+2025-01-09 18:36:49,266 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-09 18:36:51,949 - INFO - ('127.0.0.1', 52745) adresinden yeni baðlantý
+2025-01-09 18:36:51,973 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:36:52,492 - INFO - ('127.0.0.1', 52747) adresinden yeni baðlantý
+2025-01-09 18:36:52,523 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:36:53,272 - INFO - ('127.0.0.1', 52749) adresinden yeni baðlantý
+2025-01-09 18:36:53,297 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-09 18:36:55,966 - INFO - ('127.0.0.1', 52757) adresinden yeni baðlantý
+2025-01-09 18:36:55,992 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:36:56,528 - INFO - ('127.0.0.1', 52759) adresinden yeni baðlantý
+2025-01-09 18:36:56,566 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:36:57,291 - INFO - ('127.0.0.1', 52761) adresinden yeni baðlantý
+2025-01-09 18:36:57,324 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-09 18:37:00,004 - INFO - ('127.0.0.1', 52769) adresinden yeni baðlantý
+2025-01-09 18:37:00,031 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:00,536 - INFO - ('127.0.0.1', 52771) adresinden yeni baðlantý
+2025-01-09 18:37:00,567 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:37:01,313 - INFO - ('127.0.0.1', 52773) adresinden yeni baðlantý
+2025-01-09 18:37:01,335 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-09 18:37:04,019 - INFO - ('127.0.0.1', 52782) adresinden yeni baðlantý
+2025-01-09 18:37:04,044 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:04,552 - INFO - ('127.0.0.1', 52784) adresinden yeni baðlantý
+2025-01-09 18:37:04,595 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:37:05,302 - INFO - ('127.0.0.1', 52786) adresinden yeni baðlantý
+2025-01-09 18:37:05,329 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-09 18:37:08,021 - INFO - ('127.0.0.1', 52794) adresinden yeni baðlantý
+2025-01-09 18:37:08,052 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:08,581 - INFO - ('127.0.0.1', 52796) adresinden yeni baðlantý
+2025-01-09 18:37:08,606 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:37:09,346 - INFO - ('127.0.0.1', 52798) adresinden yeni baðlantý
+2025-01-09 18:37:09,372 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:12,029 - INFO - ('127.0.0.1', 52806) adresinden yeni baðlantý
+2025-01-09 18:37:12,056 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:12,570 - INFO - ('127.0.0.1', 52808) adresinden yeni baðlantý
+2025-01-09 18:37:12,598 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:37:13,350 - INFO - ('127.0.0.1', 52810) adresinden yeni baðlantý
+2025-01-09 18:37:13,377 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:16,048 - INFO - ('127.0.0.1', 52818) adresinden yeni baðlantý
+2025-01-09 18:37:16,074 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:16,584 - INFO - ('127.0.0.1', 52820) adresinden yeni baðlantý
+2025-01-09 18:37:16,606 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:37:17,477 - INFO - ('127.0.0.1', 52822) adresinden yeni baðlantý
+2025-01-09 18:37:17,477 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:20,072 - INFO - ('127.0.0.1', 52830) adresinden yeni baðlantý
+2025-01-09 18:37:20,088 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:20,620 - INFO - ('127.0.0.1', 52832) adresinden yeni baðlantý
+2025-01-09 18:37:20,636 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:37:21,369 - INFO - ('127.0.0.1', 52834) adresinden yeni baðlantý
+2025-01-09 18:37:21,392 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:24,064 - INFO - ('127.0.0.1', 52842) adresinden yeni baðlantý
+2025-01-09 18:37:24,091 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:24,600 - INFO - ('127.0.0.1', 52844) adresinden yeni baðlantý
+2025-01-09 18:37:24,612 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:37:25,376 - INFO - ('127.0.0.1', 52846) adresinden yeni baðlantý
+2025-01-09 18:37:25,396 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:28,092 - INFO - ('127.0.0.1', 52854) adresinden yeni baðlantý
+2025-01-09 18:37:28,118 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:28,634 - INFO - ('127.0.0.1', 52856) adresinden yeni baðlantý
+2025-01-09 18:37:28,660 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:37:29,405 - INFO - ('127.0.0.1', 52858) adresinden yeni baðlantý
+2025-01-09 18:37:29,405 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:32,106 - INFO - ('127.0.0.1', 52867) adresinden yeni baðlantý
+2025-01-09 18:37:32,148 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:32,656 - INFO - ('127.0.0.1', 52869) adresinden yeni baðlantý
+2025-01-09 18:37:32,686 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-09 18:37:33,425 - INFO - ('127.0.0.1', 52871) adresinden yeni baðlantý
+2025-01-09 18:37:33,441 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:36,118 - INFO - ('127.0.0.1', 52879) adresinden yeni baðlantý
+2025-01-09 18:37:36,146 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:36,651 - INFO - ('127.0.0.1', 52881) adresinden yeni baðlantý
+2025-01-09 18:37:36,664 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:37:37,443 - INFO - ('127.0.0.1', 52883) adresinden yeni baðlantý
+2025-01-09 18:37:37,478 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:40,147 - INFO - ('127.0.0.1', 52891) adresinden yeni baðlantý
+2025-01-09 18:37:40,174 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:40,703 - INFO - ('127.0.0.1', 52893) adresinden yeni baðlantý
+2025-01-09 18:37:40,745 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:37:41,431 - INFO - ('127.0.0.1', 52895) adresinden yeni baðlantý
+2025-01-09 18:37:41,458 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:44,153 - INFO - ('127.0.0.1', 52903) adresinden yeni baðlantý
+2025-01-09 18:37:44,180 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:44,709 - INFO - ('127.0.0.1', 52905) adresinden yeni baðlantý
+2025-01-09 18:37:44,736 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:37:45,445 - INFO - ('127.0.0.1', 52908) adresinden yeni baðlantý
+2025-01-09 18:37:45,473 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:48,177 - INFO - ('127.0.0.1', 52916) adresinden yeni baðlantý
+2025-01-09 18:37:48,177 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:48,695 - INFO - ('127.0.0.1', 52918) adresinden yeni baðlantý
+2025-01-09 18:37:48,719 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:37:49,465 - INFO - ('127.0.0.1', 52920) adresinden yeni baðlantý
+2025-01-09 18:37:49,493 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:52,189 - INFO - ('127.0.0.1', 52928) adresinden yeni baðlantý
+2025-01-09 18:37:52,203 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:52,704 - INFO - ('127.0.0.1', 52930) adresinden yeni baðlantý
+2025-01-09 18:37:52,728 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:37:53,493 - INFO - ('127.0.0.1', 52932) adresinden yeni baðlantý
+2025-01-09 18:37:53,527 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:37:56,208 - INFO - ('127.0.0.1', 52940) adresinden yeni baðlantý
+2025-01-09 18:37:56,224 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:37:56,729 - INFO - ('127.0.0.1', 52942) adresinden yeni baðlantý
+2025-01-09 18:37:56,754 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:37:57,514 - INFO - ('127.0.0.1', 52944) adresinden yeni baðlantý
+2025-01-09 18:37:57,541 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:00,222 - INFO - ('127.0.0.1', 52952) adresinden yeni baðlantý
+2025-01-09 18:38:00,249 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:00,751 - INFO - ('127.0.0.1', 52954) adresinden yeni baðlantý
+2025-01-09 18:38:00,767 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:01,550 - INFO - ('127.0.0.1', 52956) adresinden yeni baðlantý
+2025-01-09 18:38:01,576 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:04,238 - INFO - ('127.0.0.1', 52964) adresinden yeni baðlantý
+2025-01-09 18:38:04,272 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:04,773 - INFO - ('127.0.0.1', 52966) adresinden yeni baðlantý
+2025-01-09 18:38:04,800 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:05,565 - INFO - ('127.0.0.1', 52968) adresinden yeni baðlantý
+2025-01-09 18:38:05,590 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:08,263 - INFO - ('127.0.0.1', 52976) adresinden yeni baðlantý
+2025-01-09 18:38:08,298 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:08,779 - INFO - ('127.0.0.1', 52978) adresinden yeni baðlantý
+2025-01-09 18:38:08,809 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:09,557 - INFO - ('127.0.0.1', 52980) adresinden yeni baðlantý
+2025-01-09 18:38:09,584 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:12,322 - INFO - ('127.0.0.1', 52988) adresinden yeni baðlantý
+2025-01-09 18:38:12,353 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:12,815 - INFO - ('127.0.0.1', 52990) adresinden yeni baðlantý
+2025-01-09 18:38:12,846 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:13,593 - INFO - ('127.0.0.1', 52992) adresinden yeni baðlantý
+2025-01-09 18:38:13,609 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:16,336 - INFO - ('127.0.0.1', 53000) adresinden yeni baðlantý
+2025-01-09 18:38:16,365 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:16,814 - INFO - ('127.0.0.1', 53002) adresinden yeni baðlantý
+2025-01-09 18:38:16,839 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:17,589 - INFO - ('127.0.0.1', 53004) adresinden yeni baðlantý
+2025-01-09 18:38:17,612 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:20,342 - INFO - ('127.0.0.1', 53012) adresinden yeni baðlantý
+2025-01-09 18:38:20,358 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:20,836 - INFO - ('127.0.0.1', 53014) adresinden yeni baðlantý
+2025-01-09 18:38:20,852 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:21,626 - INFO - ('127.0.0.1', 53016) adresinden yeni baðlantý
+2025-01-09 18:38:21,642 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:24,348 - INFO - ('127.0.0.1', 53024) adresinden yeni baðlantý
+2025-01-09 18:38:24,373 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:24,848 - INFO - ('127.0.0.1', 53026) adresinden yeni baðlantý
+2025-01-09 18:38:24,874 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:25,632 - INFO - ('127.0.0.1', 53028) adresinden yeni baðlantý
+2025-01-09 18:38:25,649 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:28,362 - INFO - ('127.0.0.1', 53036) adresinden yeni baðlantý
+2025-01-09 18:38:28,378 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:28,864 - INFO - ('127.0.0.1', 53038) adresinden yeni baðlantý
+2025-01-09 18:38:28,879 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:29,653 - INFO - ('127.0.0.1', 53040) adresinden yeni baðlantý
+2025-01-09 18:38:29,679 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:32,376 - INFO - ('127.0.0.1', 53048) adresinden yeni baðlantý
+2025-01-09 18:38:32,401 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:32,868 - INFO - ('127.0.0.1', 53050) adresinden yeni baðlantý
+2025-01-09 18:38:32,895 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:33,691 - INFO - ('127.0.0.1', 53052) adresinden yeni baðlantý
+2025-01-09 18:38:33,717 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:36,389 - INFO - ('127.0.0.1', 53060) adresinden yeni baðlantý
+2025-01-09 18:38:36,407 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:36,903 - INFO - ('127.0.0.1', 53062) adresinden yeni baðlantý
+2025-01-09 18:38:36,929 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:37,701 - INFO - ('127.0.0.1', 53064) adresinden yeni baðlantý
+2025-01-09 18:38:37,717 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:40,367 - INFO - ('127.0.0.1', 53072) adresinden yeni baðlantý
+2025-01-09 18:38:40,390 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:40,909 - INFO - ('127.0.0.1', 53074) adresinden yeni baðlantý
+2025-01-09 18:38:40,931 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:41,694 - INFO - ('127.0.0.1', 53076) adresinden yeni baðlantý
+2025-01-09 18:38:41,701 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:44,375 - INFO - ('127.0.0.1', 53084) adresinden yeni baðlantý
+2025-01-09 18:38:44,398 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:44,916 - INFO - ('127.0.0.1', 53086) adresinden yeni baðlantý
+2025-01-09 18:38:44,923 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:45,718 - INFO - ('127.0.0.1', 53088) adresinden yeni baðlantý
+2025-01-09 18:38:45,726 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:48,781 - INFO - ('127.0.0.1', 53097) adresinden yeni baðlantý
+2025-01-09 18:38:48,798 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-09 18:38:48,918 - INFO - ('127.0.0.1', 53099) adresinden yeni baðlantý
+2025-01-09 18:38:48,918 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-09 18:38:49,722 - INFO - ('127.0.0.1', 53101) adresinden yeni baðlantý
+2025-01-09 18:38:49,746 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-09 18:38:52,416 - INFO - Monitör kapatýlýyor...
+2025-01-10 17:54:04,415 - INFO - Abone Monitörü Baþlatýlýyor
+2025-01-10 17:54:04,421 - INFO - Sunucu localhost:6000 adresinde dinliyor
+2025-01-10 17:55:19,824 - INFO - ('127.0.0.1', 55675) adresinden yeni baðlantý
+2025-01-10 17:55:19,851 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 17:55:20,864 - INFO - ('127.0.0.1', 55677) adresinden yeni baðlantý
+2025-01-10 17:55:20,870 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 17:55:21,112 - INFO - ('127.0.0.1', 55679) adresinden yeni baðlantý
+2025-01-10 17:55:21,123 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 17:55:23,849 - INFO - ('127.0.0.1', 55688) adresinden yeni baðlantý
+2025-01-10 17:55:23,878 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 17:55:24,874 - INFO - ('127.0.0.1', 55690) adresinden yeni baðlantý
+2025-01-10 17:55:24,898 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 17:55:25,122 - INFO - ('127.0.0.1', 55692) adresinden yeni baðlantý
+2025-01-10 17:55:25,147 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 17:55:27,866 - INFO - ('127.0.0.1', 55700) adresinden yeni baðlantý
+2025-01-10 17:55:27,890 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 17:55:28,909 - INFO - ('127.0.0.1', 55702) adresinden yeni baðlantý
+2025-01-10 17:55:28,934 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 17:55:29,154 - INFO - ('127.0.0.1', 55704) adresinden yeni baðlantý
+2025-01-10 17:55:29,176 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 17:55:31,884 - INFO - ('127.0.0.1', 55712) adresinden yeni baðlantý
+2025-01-10 17:55:31,914 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 17:55:32,923 - INFO - ('127.0.0.1', 55714) adresinden yeni baðlantý
+2025-01-10 17:55:32,948 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 17:55:33,169 - INFO - ('127.0.0.1', 55716) adresinden yeni baðlantý
+2025-01-10 17:55:33,194 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 17:55:35,899 - INFO - ('127.0.0.1', 55724) adresinden yeni baðlantý
+2025-01-10 17:55:35,925 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 17:55:36,937 - INFO - ('127.0.0.1', 55726) adresinden yeni baðlantý
+2025-01-10 17:55:36,963 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 17:55:37,202 - INFO - ('127.0.0.1', 55728) adresinden yeni baðlantý
+2025-01-10 17:55:37,232 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 17:55:39,912 - INFO - ('127.0.0.1', 55736) adresinden yeni baðlantý
+2025-01-10 17:55:39,938 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 17:55:40,968 - INFO - ('127.0.0.1', 55738) adresinden yeni baðlantý
+2025-01-10 17:55:40,992 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 17:55:41,232 - INFO - ('127.0.0.1', 55740) adresinden yeni baðlantý
+2025-01-10 17:55:41,256 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 17:55:43,938 - INFO - ('127.0.0.1', 55748) adresinden yeni baðlantý
+2025-01-10 17:55:43,948 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 17:55:44,964 - INFO - ('127.0.0.1', 55750) adresinden yeni baðlantý
+2025-01-10 17:55:44,997 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 17:55:45,243 - INFO - ('127.0.0.1', 55752) adresinden yeni baðlantý
+2025-01-10 17:55:45,266 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 17:55:47,946 - INFO - ('127.0.0.1', 55760) adresinden yeni baðlantý
+2025-01-10 17:55:47,970 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 17:55:48,982 - INFO - ('127.0.0.1', 55762) adresinden yeni baðlantý
+2025-01-10 17:55:49,012 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 17:55:49,246 - INFO - ('127.0.0.1', 55766) adresinden yeni baðlantý
+2025-01-10 17:55:49,272 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 17:55:51,952 - INFO - ('127.0.0.1', 55774) adresinden yeni baðlantý
+2025-01-10 17:55:51,987 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:55:52,995 - INFO - ('127.0.0.1', 55776) adresinden yeni baðlantý
+2025-01-10 17:55:53,019 - INFO - Sunucu2 güncellendi: 2 abone
+2025-01-10 17:55:53,261 - INFO - ('127.0.0.1', 55778) adresinden yeni baðlantý
+2025-01-10 17:55:53,300 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:55:55,953 - INFO - ('127.0.0.1', 55786) adresinden yeni baðlantý
+2025-01-10 17:55:55,980 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:55:56,995 - INFO - ('127.0.0.1', 55788) adresinden yeni baðlantý
+2025-01-10 17:55:57,027 - INFO - Sunucu2 güncellendi: 2 abone
+2025-01-10 17:55:57,273 - INFO - ('127.0.0.1', 55790) adresinden yeni baðlantý
+2025-01-10 17:55:57,299 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:55:59,991 - INFO - ('127.0.0.1', 55798) adresinden yeni baðlantý
+2025-01-10 17:56:00,019 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:01,034 - INFO - ('127.0.0.1', 55800) adresinden yeni baðlantý
+2025-01-10 17:56:01,058 - INFO - Sunucu2 güncellendi: 2 abone
+2025-01-10 17:56:01,269 - INFO - ('127.0.0.1', 55802) adresinden yeni baðlantý
+2025-01-10 17:56:01,312 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:56:04,002 - INFO - ('127.0.0.1', 55810) adresinden yeni baðlantý
+2025-01-10 17:56:04,037 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:05,033 - INFO - ('127.0.0.1', 55812) adresinden yeni baðlantý
+2025-01-10 17:56:05,058 - INFO - Sunucu2 güncellendi: 2 abone
+2025-01-10 17:56:05,282 - INFO - ('127.0.0.1', 55814) adresinden yeni baðlantý
+2025-01-10 17:56:05,317 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:56:08,033 - INFO - ('127.0.0.1', 55824) adresinden yeni baðlantý
+2025-01-10 17:56:08,061 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:09,057 - INFO - ('127.0.0.1', 55826) adresinden yeni baðlantý
+2025-01-10 17:56:09,090 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:09,308 - INFO - ('127.0.0.1', 55828) adresinden yeni baðlantý
+2025-01-10 17:56:09,341 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:12,039 - INFO - ('127.0.0.1', 55836) adresinden yeni baðlantý
+2025-01-10 17:56:12,064 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 17:56:13,062 - INFO - ('127.0.0.1', 55838) adresinden yeni baðlantý
+2025-01-10 17:56:13,099 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:13,308 - INFO - ('127.0.0.1', 55840) adresinden yeni baðlantý
+2025-01-10 17:56:13,337 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:16,050 - INFO - ('127.0.0.1', 55848) adresinden yeni baðlantý
+2025-01-10 17:56:16,074 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 17:56:17,060 - INFO - ('127.0.0.1', 55850) adresinden yeni baðlantý
+2025-01-10 17:56:17,087 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:17,341 - INFO - ('127.0.0.1', 55852) adresinden yeni baðlantý
+2025-01-10 17:56:17,366 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:20,071 - INFO - ('127.0.0.1', 55860) adresinden yeni baðlantý
+2025-01-10 17:56:20,095 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 17:56:21,069 - INFO - ('127.0.0.1', 55862) adresinden yeni baðlantý
+2025-01-10 17:56:21,093 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:21,344 - INFO - ('127.0.0.1', 55864) adresinden yeni baðlantý
+2025-01-10 17:56:21,370 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:24,064 - INFO - ('127.0.0.1', 55872) adresinden yeni baðlantý
+2025-01-10 17:56:24,094 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 17:56:25,087 - INFO - ('127.0.0.1', 55875) adresinden yeni baðlantý
+2025-01-10 17:56:25,116 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:25,367 - INFO - ('127.0.0.1', 55877) adresinden yeni baðlantý
+2025-01-10 17:56:25,397 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:28,099 - INFO - ('127.0.0.1', 55885) adresinden yeni baðlantý
+2025-01-10 17:56:28,127 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 17:56:29,110 - INFO - ('127.0.0.1', 55887) adresinden yeni baðlantý
+2025-01-10 17:56:29,136 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:29,389 - INFO - ('127.0.0.1', 55889) adresinden yeni baðlantý
+2025-01-10 17:56:29,420 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:32,103 - INFO - ('127.0.0.1', 55897) adresinden yeni baðlantý
+2025-01-10 17:56:32,126 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:33,101 - INFO - ('127.0.0.1', 55899) adresinden yeni baðlantý
+2025-01-10 17:56:33,123 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:33,412 - INFO - ('127.0.0.1', 55901) adresinden yeni baðlantý
+2025-01-10 17:56:33,437 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:36,122 - INFO - ('127.0.0.1', 55909) adresinden yeni baðlantý
+2025-01-10 17:56:36,147 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:37,133 - INFO - ('127.0.0.1', 55911) adresinden yeni baðlantý
+2025-01-10 17:56:37,162 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:37,413 - INFO - ('127.0.0.1', 55913) adresinden yeni baðlantý
+2025-01-10 17:56:37,462 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:40,132 - INFO - ('127.0.0.1', 55921) adresinden yeni baðlantý
+2025-01-10 17:56:40,155 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:41,156 - INFO - ('127.0.0.1', 55923) adresinden yeni baðlantý
+2025-01-10 17:56:41,182 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:41,434 - INFO - ('127.0.0.1', 55925) adresinden yeni baðlantý
+2025-01-10 17:56:41,458 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:44,164 - INFO - ('127.0.0.1', 55934) adresinden yeni baðlantý
+2025-01-10 17:56:44,191 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:45,177 - INFO - ('127.0.0.1', 55936) adresinden yeni baðlantý
+2025-01-10 17:56:45,208 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:45,426 - INFO - ('127.0.0.1', 55938) adresinden yeni baðlantý
+2025-01-10 17:56:45,459 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 17:56:48,195 - INFO - ('127.0.0.1', 55946) adresinden yeni baðlantý
+2025-01-10 17:56:48,220 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:49,189 - INFO - ('127.0.0.1', 55948) adresinden yeni baðlantý
+2025-01-10 17:56:49,217 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:49,456 - INFO - ('127.0.0.1', 55950) adresinden yeni baðlantý
+2025-01-10 17:56:49,483 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:56:52,203 - INFO - ('127.0.0.1', 55958) adresinden yeni baðlantý
+2025-01-10 17:56:52,232 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:53,199 - INFO - ('127.0.0.1', 55960) adresinden yeni baðlantý
+2025-01-10 17:56:53,227 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:53,466 - INFO - ('127.0.0.1', 55962) adresinden yeni baðlantý
+2025-01-10 17:56:53,490 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:56:56,207 - INFO - ('127.0.0.1', 55970) adresinden yeni baðlantý
+2025-01-10 17:56:56,237 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:56:57,201 - INFO - ('127.0.0.1', 55972) adresinden yeni baðlantý
+2025-01-10 17:56:57,227 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:56:57,478 - INFO - ('127.0.0.1', 55974) adresinden yeni baðlantý
+2025-01-10 17:56:57,503 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:00,237 - INFO - ('127.0.0.1', 55982) adresinden yeni baðlantý
+2025-01-10 17:57:00,267 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:01,219 - INFO - ('127.0.0.1', 55984) adresinden yeni baðlantý
+2025-01-10 17:57:01,246 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:01,498 - INFO - ('127.0.0.1', 55986) adresinden yeni baðlantý
+2025-01-10 17:57:01,530 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:04,269 - INFO - ('127.0.0.1', 55994) adresinden yeni baðlantý
+2025-01-10 17:57:04,298 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:05,227 - INFO - ('127.0.0.1', 55996) adresinden yeni baðlantý
+2025-01-10 17:57:05,257 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:05,504 - INFO - ('127.0.0.1', 55998) adresinden yeni baðlantý
+2025-01-10 17:57:05,534 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:08,283 - INFO - ('127.0.0.1', 56006) adresinden yeni baðlantý
+2025-01-10 17:57:08,312 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:09,247 - INFO - ('127.0.0.1', 56008) adresinden yeni baðlantý
+2025-01-10 17:57:09,275 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:09,542 - INFO - ('127.0.0.1', 56010) adresinden yeni baðlantý
+2025-01-10 17:57:09,573 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:12,296 - INFO - ('127.0.0.1', 56018) adresinden yeni baðlantý
+2025-01-10 17:57:12,335 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:13,243 - INFO - ('127.0.0.1', 56020) adresinden yeni baðlantý
+2025-01-10 17:57:13,289 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:13,538 - INFO - ('127.0.0.1', 56022) adresinden yeni baðlantý
+2025-01-10 17:57:13,571 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:16,293 - INFO - ('127.0.0.1', 56030) adresinden yeni baðlantý
+2025-01-10 17:57:16,320 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:17,273 - INFO - ('127.0.0.1', 56032) adresinden yeni baðlantý
+2025-01-10 17:57:17,301 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:17,552 - INFO - ('127.0.0.1', 56034) adresinden yeni baðlantý
+2025-01-10 17:57:17,581 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:20,311 - INFO - ('127.0.0.1', 56042) adresinden yeni baðlantý
+2025-01-10 17:57:20,343 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:21,292 - INFO - ('127.0.0.1', 56044) adresinden yeni baðlantý
+2025-01-10 17:57:21,323 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:21,587 - INFO - ('127.0.0.1', 56046) adresinden yeni baðlantý
+2025-01-10 17:57:21,612 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:24,325 - INFO - ('127.0.0.1', 56054) adresinden yeni baðlantý
+2025-01-10 17:57:24,357 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:25,300 - INFO - ('127.0.0.1', 56056) adresinden yeni baðlantý
+2025-01-10 17:57:25,327 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:25,596 - INFO - ('127.0.0.1', 56058) adresinden yeni baðlantý
+2025-01-10 17:57:25,625 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:28,346 - INFO - ('127.0.0.1', 56066) adresinden yeni baðlantý
+2025-01-10 17:57:28,377 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:29,328 - INFO - ('127.0.0.1', 56068) adresinden yeni baðlantý
+2025-01-10 17:57:29,329 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:29,622 - INFO - ('127.0.0.1', 56070) adresinden yeni baðlantý
+2025-01-10 17:57:29,646 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:32,373 - INFO - ('127.0.0.1', 56078) adresinden yeni baðlantý
+2025-01-10 17:57:32,409 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:33,334 - INFO - ('127.0.0.1', 56080) adresinden yeni baðlantý
+2025-01-10 17:57:33,373 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:33,628 - INFO - ('127.0.0.1', 56082) adresinden yeni baðlantý
+2025-01-10 17:57:33,668 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:36,381 - INFO - ('127.0.0.1', 56091) adresinden yeni baðlantý
+2025-01-10 17:57:36,415 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:37,359 - INFO - ('127.0.0.1', 56093) adresinden yeni baðlantý
+2025-01-10 17:57:37,395 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:37,654 - INFO - ('127.0.0.1', 56095) adresinden yeni baðlantý
+2025-01-10 17:57:37,694 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:40,381 - INFO - ('127.0.0.1', 56103) adresinden yeni baðlantý
+2025-01-10 17:57:40,410 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:41,372 - INFO - ('127.0.0.1', 56105) adresinden yeni baðlantý
+2025-01-10 17:57:41,406 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:41,668 - INFO - ('127.0.0.1', 56107) adresinden yeni baðlantý
+2025-01-10 17:57:41,702 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:44,400 - INFO - ('127.0.0.1', 56115) adresinden yeni baðlantý
+2025-01-10 17:57:44,436 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:45,394 - INFO - ('127.0.0.1', 56117) adresinden yeni baðlantý
+2025-01-10 17:57:45,426 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:45,706 - INFO - ('127.0.0.1', 56119) adresinden yeni baðlantý
+2025-01-10 17:57:45,738 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:48,405 - INFO - ('127.0.0.1', 56128) adresinden yeni baðlantý
+2025-01-10 17:57:48,462 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:49,416 - INFO - ('127.0.0.1', 56130) adresinden yeni baðlantý
+2025-01-10 17:57:49,450 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:49,727 - INFO - ('127.0.0.1', 56132) adresinden yeni baðlantý
+2025-01-10 17:57:49,763 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:52,430 - INFO - ('127.0.0.1', 56140) adresinden yeni baðlantý
+2025-01-10 17:57:52,456 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:53,411 - INFO - ('127.0.0.1', 56142) adresinden yeni baðlantý
+2025-01-10 17:57:53,446 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:53,737 - INFO - ('127.0.0.1', 56144) adresinden yeni baðlantý
+2025-01-10 17:57:53,762 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:57:56,438 - INFO - ('127.0.0.1', 56152) adresinden yeni baðlantý
+2025-01-10 17:57:56,463 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:57:57,449 - INFO - ('127.0.0.1', 56154) adresinden yeni baðlantý
+2025-01-10 17:57:57,485 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:57:57,742 - INFO - ('127.0.0.1', 56156) adresinden yeni baðlantý
+2025-01-10 17:57:57,783 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:00,431 - INFO - ('127.0.0.1', 56164) adresinden yeni baðlantý
+2025-01-10 17:58:00,461 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:01,453 - INFO - ('127.0.0.1', 56166) adresinden yeni baðlantý
+2025-01-10 17:58:01,481 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:01,764 - INFO - ('127.0.0.1', 56168) adresinden yeni baðlantý
+2025-01-10 17:58:01,795 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:04,448 - INFO - ('127.0.0.1', 56176) adresinden yeni baðlantý
+2025-01-10 17:58:04,477 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:05,471 - INFO - ('127.0.0.1', 56178) adresinden yeni baðlantý
+2025-01-10 17:58:05,506 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:05,766 - INFO - ('127.0.0.1', 56180) adresinden yeni baðlantý
+2025-01-10 17:58:05,801 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:08,484 - INFO - ('127.0.0.1', 56188) adresinden yeni baðlantý
+2025-01-10 17:58:08,513 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:09,505 - INFO - ('127.0.0.1', 56190) adresinden yeni baðlantý
+2025-01-10 17:58:09,536 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:09,786 - INFO - ('127.0.0.1', 56192) adresinden yeni baðlantý
+2025-01-10 17:58:09,811 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:12,489 - INFO - ('127.0.0.1', 56200) adresinden yeni baðlantý
+2025-01-10 17:58:12,513 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:13,531 - INFO - ('127.0.0.1', 56202) adresinden yeni baðlantý
+2025-01-10 17:58:13,563 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:13,794 - INFO - ('127.0.0.1', 56204) adresinden yeni baðlantý
+2025-01-10 17:58:13,827 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:16,507 - INFO - ('127.0.0.1', 56212) adresinden yeni baðlantý
+2025-01-10 17:58:16,538 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:17,549 - INFO - ('127.0.0.1', 56214) adresinden yeni baðlantý
+2025-01-10 17:58:17,580 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:17,831 - INFO - ('127.0.0.1', 56216) adresinden yeni baðlantý
+2025-01-10 17:58:17,861 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:20,521 - INFO - ('127.0.0.1', 56225) adresinden yeni baðlantý
+2025-01-10 17:58:20,561 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:21,556 - INFO - ('127.0.0.1', 56227) adresinden yeni baðlantý
+2025-01-10 17:58:21,588 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:21,838 - INFO - ('127.0.0.1', 56229) adresinden yeni baðlantý
+2025-01-10 17:58:21,840 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:24,534 - INFO - ('127.0.0.1', 56237) adresinden yeni baðlantý
+2025-01-10 17:58:24,580 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:25,576 - INFO - ('127.0.0.1', 56239) adresinden yeni baðlantý
+2025-01-10 17:58:25,612 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:25,872 - INFO - ('127.0.0.1', 56241) adresinden yeni baðlantý
+2025-01-10 17:58:25,903 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:28,560 - INFO - ('127.0.0.1', 56249) adresinden yeni baðlantý
+2025-01-10 17:58:28,594 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:29,584 - INFO - ('127.0.0.1', 56251) adresinden yeni baðlantý
+2025-01-10 17:58:29,613 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:29,879 - INFO - ('127.0.0.1', 56253) adresinden yeni baðlantý
+2025-01-10 17:58:29,908 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:32,572 - INFO - ('127.0.0.1', 56261) adresinden yeni baðlantý
+2025-01-10 17:58:32,603 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:33,594 - INFO - ('127.0.0.1', 56263) adresinden yeni baðlantý
+2025-01-10 17:58:33,628 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:33,890 - INFO - ('127.0.0.1', 56265) adresinden yeni baðlantý
+2025-01-10 17:58:33,920 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:36,591 - INFO - ('127.0.0.1', 56273) adresinden yeni baðlantý
+2025-01-10 17:58:36,617 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:37,630 - INFO - ('127.0.0.1', 56275) adresinden yeni baðlantý
+2025-01-10 17:58:37,644 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:37,908 - INFO - ('127.0.0.1', 56277) adresinden yeni baðlantý
+2025-01-10 17:58:37,941 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:40,611 - INFO - ('127.0.0.1', 56285) adresinden yeni baðlantý
+2025-01-10 17:58:40,648 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:41,639 - INFO - ('127.0.0.1', 56287) adresinden yeni baðlantý
+2025-01-10 17:58:41,666 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:41,920 - INFO - ('127.0.0.1', 56289) adresinden yeni baðlantý
+2025-01-10 17:58:41,948 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:44,621 - INFO - ('127.0.0.1', 56297) adresinden yeni baðlantý
+2025-01-10 17:58:44,646 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:45,644 - INFO - ('127.0.0.1', 56299) adresinden yeni baðlantý
+2025-01-10 17:58:45,672 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:45,923 - INFO - ('127.0.0.1', 56301) adresinden yeni baðlantý
+2025-01-10 17:58:45,957 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:48,628 - INFO - ('127.0.0.1', 56309) adresinden yeni baðlantý
+2025-01-10 17:58:48,655 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:49,667 - INFO - ('127.0.0.1', 56311) adresinden yeni baðlantý
+2025-01-10 17:58:49,695 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:49,945 - INFO - ('127.0.0.1', 56313) adresinden yeni baðlantý
+2025-01-10 17:58:49,971 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:52,648 - INFO - ('127.0.0.1', 56321) adresinden yeni baðlantý
+2025-01-10 17:58:52,677 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:53,674 - INFO - ('127.0.0.1', 56323) adresinden yeni baðlantý
+2025-01-10 17:58:53,708 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:53,950 - INFO - ('127.0.0.1', 56325) adresinden yeni baðlantý
+2025-01-10 17:58:53,982 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:58:56,666 - INFO - ('127.0.0.1', 56333) adresinden yeni baðlantý
+2025-01-10 17:58:56,693 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:58:57,691 - INFO - ('127.0.0.1', 56335) adresinden yeni baðlantý
+2025-01-10 17:58:57,722 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:58:57,988 - INFO - ('127.0.0.1', 56337) adresinden yeni baðlantý
+2025-01-10 17:58:58,021 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:00,672 - INFO - ('127.0.0.1', 56345) adresinden yeni baðlantý
+2025-01-10 17:59:00,698 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:01,698 - INFO - ('127.0.0.1', 56347) adresinden yeni baðlantý
+2025-01-10 17:59:01,729 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:02,008 - INFO - ('127.0.0.1', 56349) adresinden yeni baðlantý
+2025-01-10 17:59:02,038 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:04,671 - INFO - ('127.0.0.1', 56357) adresinden yeni baðlantý
+2025-01-10 17:59:04,696 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:05,714 - INFO - ('127.0.0.1', 56359) adresinden yeni baðlantý
+2025-01-10 17:59:05,752 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:06,024 - INFO - ('127.0.0.1', 56361) adresinden yeni baðlantý
+2025-01-10 17:59:06,051 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:08,701 - INFO - ('127.0.0.1', 56369) adresinden yeni baðlantý
+2025-01-10 17:59:08,740 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:09,727 - INFO - ('127.0.0.1', 56371) adresinden yeni baðlantý
+2025-01-10 17:59:09,763 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:10,040 - INFO - ('127.0.0.1', 56373) adresinden yeni baðlantý
+2025-01-10 17:59:10,069 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:12,704 - INFO - ('127.0.0.1', 56381) adresinden yeni baðlantý
+2025-01-10 17:59:12,736 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:13,741 - INFO - ('127.0.0.1', 56384) adresinden yeni baðlantý
+2025-01-10 17:59:13,774 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:14,051 - INFO - ('127.0.0.1', 56386) adresinden yeni baðlantý
+2025-01-10 17:59:14,080 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:16,701 - INFO - ('127.0.0.1', 56394) adresinden yeni baðlantý
+2025-01-10 17:59:16,733 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:17,761 - INFO - ('127.0.0.1', 56396) adresinden yeni baðlantý
+2025-01-10 17:59:17,791 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:18,072 - INFO - ('127.0.0.1', 56398) adresinden yeni baðlantý
+2025-01-10 17:59:18,113 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:20,728 - INFO - ('127.0.0.1', 56406) adresinden yeni baðlantý
+2025-01-10 17:59:20,759 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:21,781 - INFO - ('127.0.0.1', 56408) adresinden yeni baðlantý
+2025-01-10 17:59:21,813 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:22,094 - INFO - ('127.0.0.1', 56410) adresinden yeni baðlantý
+2025-01-10 17:59:22,125 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:24,748 - INFO - ('127.0.0.1', 56418) adresinden yeni baðlantý
+2025-01-10 17:59:24,782 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:25,789 - INFO - ('127.0.0.1', 56420) adresinden yeni baðlantý
+2025-01-10 17:59:25,818 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:26,088 - INFO - ('127.0.0.1', 56422) adresinden yeni baðlantý
+2025-01-10 17:59:26,121 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:28,771 - INFO - ('127.0.0.1', 56432) adresinden yeni baðlantý
+2025-01-10 17:59:28,803 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:29,795 - INFO - ('127.0.0.1', 56434) adresinden yeni baðlantý
+2025-01-10 17:59:29,823 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:30,105 - INFO - ('127.0.0.1', 56436) adresinden yeni baðlantý
+2025-01-10 17:59:30,131 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:32,792 - INFO - ('127.0.0.1', 56444) adresinden yeni baðlantý
+2025-01-10 17:59:32,821 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:33,833 - INFO - ('127.0.0.1', 56446) adresinden yeni baðlantý
+2025-01-10 17:59:33,873 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:34,126 - INFO - ('127.0.0.1', 56448) adresinden yeni baðlantý
+2025-01-10 17:59:34,162 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:36,808 - INFO - ('127.0.0.1', 56456) adresinden yeni baðlantý
+2025-01-10 17:59:36,834 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:37,848 - INFO - ('127.0.0.1', 56458) adresinden yeni baðlantý
+2025-01-10 17:59:37,874 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:38,143 - INFO - ('127.0.0.1', 56460) adresinden yeni baðlantý
+2025-01-10 17:59:38,186 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:40,821 - INFO - ('127.0.0.1', 56468) adresinden yeni baðlantý
+2025-01-10 17:59:40,848 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:41,853 - INFO - ('127.0.0.1', 56470) adresinden yeni baðlantý
+2025-01-10 17:59:41,887 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:42,146 - INFO - ('127.0.0.1', 56472) adresinden yeni baðlantý
+2025-01-10 17:59:42,175 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:44,849 - INFO - ('127.0.0.1', 56480) adresinden yeni baðlantý
+2025-01-10 17:59:44,876 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:45,888 - INFO - ('127.0.0.1', 56482) adresinden yeni baðlantý
+2025-01-10 17:59:45,924 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:46,168 - INFO - ('127.0.0.1', 56484) adresinden yeni baðlantý
+2025-01-10 17:59:46,206 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:48,856 - INFO - ('127.0.0.1', 56492) adresinden yeni baðlantý
+2025-01-10 17:59:48,881 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:49,896 - INFO - ('127.0.0.1', 56494) adresinden yeni baðlantý
+2025-01-10 17:59:49,930 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:50,176 - INFO - ('127.0.0.1', 56496) adresinden yeni baðlantý
+2025-01-10 17:59:50,208 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:52,861 - INFO - ('127.0.0.1', 56504) adresinden yeni baðlantý
+2025-01-10 17:59:52,887 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:53,904 - INFO - ('127.0.0.1', 56506) adresinden yeni baðlantý
+2025-01-10 17:59:53,935 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:54,184 - INFO - ('127.0.0.1', 56508) adresinden yeni baðlantý
+2025-01-10 17:59:54,192 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 17:59:56,879 - INFO - ('127.0.0.1', 56516) adresinden yeni baðlantý
+2025-01-10 17:59:56,915 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 17:59:57,898 - INFO - ('127.0.0.1', 56518) adresinden yeni baðlantý
+2025-01-10 17:59:57,935 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 17:59:58,179 - INFO - ('127.0.0.1', 56520) adresinden yeni baðlantý
+2025-01-10 17:59:58,203 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:00,898 - INFO - ('127.0.0.1', 56528) adresinden yeni baðlantý
+2025-01-10 18:00:00,928 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:01,918 - INFO - ('127.0.0.1', 56530) adresinden yeni baðlantý
+2025-01-10 18:00:01,953 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:02,200 - INFO - ('127.0.0.1', 56532) adresinden yeni baðlantý
+2025-01-10 18:00:02,233 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:04,923 - INFO - ('127.0.0.1', 56540) adresinden yeni baðlantý
+2025-01-10 18:00:04,963 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:05,935 - INFO - ('127.0.0.1', 56542) adresinden yeni baðlantý
+2025-01-10 18:00:05,966 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:06,231 - INFO - ('127.0.0.1', 56544) adresinden yeni baðlantý
+2025-01-10 18:00:06,265 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:08,938 - INFO - ('127.0.0.1', 56552) adresinden yeni baðlantý
+2025-01-10 18:00:08,973 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:09,946 - INFO - ('127.0.0.1', 56554) adresinden yeni baðlantý
+2025-01-10 18:00:09,975 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:10,224 - INFO - ('127.0.0.1', 56556) adresinden yeni baðlantý
+2025-01-10 18:00:10,258 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:12,949 - INFO - ('127.0.0.1', 56564) adresinden yeni baðlantý
+2025-01-10 18:00:12,980 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:13,972 - INFO - ('127.0.0.1', 56566) adresinden yeni baðlantý
+2025-01-10 18:00:14,007 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:14,252 - INFO - ('127.0.0.1', 56568) adresinden yeni baðlantý
+2025-01-10 18:00:14,279 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:16,971 - INFO - ('127.0.0.1', 56576) adresinden yeni baðlantý
+2025-01-10 18:00:17,001 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:17,997 - INFO - ('127.0.0.1', 56578) adresinden yeni baðlantý
+2025-01-10 18:00:17,998 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:18,275 - INFO - ('127.0.0.1', 56580) adresinden yeni baðlantý
+2025-01-10 18:00:18,302 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:20,976 - INFO - ('127.0.0.1', 56588) adresinden yeni baðlantý
+2025-01-10 18:00:21,003 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:22,004 - INFO - ('127.0.0.1', 56590) adresinden yeni baðlantý
+2025-01-10 18:00:22,029 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:22,270 - INFO - ('127.0.0.1', 56592) adresinden yeni baðlantý
+2025-01-10 18:00:22,298 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:24,998 - INFO - ('127.0.0.1', 56601) adresinden yeni baðlantý
+2025-01-10 18:00:25,027 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:26,036 - INFO - ('127.0.0.1', 56603) adresinden yeni baðlantý
+2025-01-10 18:00:26,038 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:26,299 - INFO - ('127.0.0.1', 56605) adresinden yeni baðlantý
+2025-01-10 18:00:26,324 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:29,020 - INFO - ('127.0.0.1', 56613) adresinden yeni baðlantý
+2025-01-10 18:00:29,045 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:30,046 - INFO - ('127.0.0.1', 56615) adresinden yeni baðlantý
+2025-01-10 18:00:30,079 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:30,326 - INFO - ('127.0.0.1', 56617) adresinden yeni baðlantý
+2025-01-10 18:00:30,348 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:33,028 - INFO - ('127.0.0.1', 56625) adresinden yeni baðlantý
+2025-01-10 18:00:33,069 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:34,071 - INFO - ('127.0.0.1', 56627) adresinden yeni baðlantý
+2025-01-10 18:00:34,121 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:34,348 - INFO - ('127.0.0.1', 56629) adresinden yeni baðlantý
+2025-01-10 18:00:34,391 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:37,041 - INFO - ('127.0.0.1', 56637) adresinden yeni baðlantý
+2025-01-10 18:00:37,076 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:38,083 - INFO - ('127.0.0.1', 56639) adresinden yeni baðlantý
+2025-01-10 18:00:38,096 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:38,348 - INFO - ('127.0.0.1', 56641) adresinden yeni baðlantý
+2025-01-10 18:00:38,383 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:41,043 - INFO - ('127.0.0.1', 56649) adresinden yeni baðlantý
+2025-01-10 18:00:41,081 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:42,103 - INFO - ('127.0.0.1', 56651) adresinden yeni baðlantý
+2025-01-10 18:00:42,133 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:42,365 - INFO - ('127.0.0.1', 56653) adresinden yeni baðlantý
+2025-01-10 18:00:42,381 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:45,073 - INFO - ('127.0.0.1', 56661) adresinden yeni baðlantý
+2025-01-10 18:00:45,087 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:46,113 - INFO - ('127.0.0.1', 56663) adresinden yeni baðlantý
+2025-01-10 18:00:46,156 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:46,393 - INFO - ('127.0.0.1', 56665) adresinden yeni baðlantý
+2025-01-10 18:00:46,408 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:49,071 - INFO - ('127.0.0.1', 56674) adresinden yeni baðlantý
+2025-01-10 18:00:49,103 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:50,104 - INFO - ('127.0.0.1', 56676) adresinden yeni baðlantý
+2025-01-10 18:00:50,159 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:50,385 - INFO - ('127.0.0.1', 56678) adresinden yeni baðlantý
+2025-01-10 18:00:50,419 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:53,079 - INFO - ('127.0.0.1', 56686) adresinden yeni baðlantý
+2025-01-10 18:00:53,116 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:54,208 - INFO - ('127.0.0.1', 56688) adresinden yeni baðlantý
+2025-01-10 18:00:54,234 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:54,417 - INFO - ('127.0.0.1', 56690) adresinden yeni baðlantý
+2025-01-10 18:00:54,448 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:00:57,094 - INFO - ('127.0.0.1', 56698) adresinden yeni baðlantý
+2025-01-10 18:00:57,121 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:00:58,148 - INFO - ('127.0.0.1', 56700) adresinden yeni baðlantý
+2025-01-10 18:00:58,178 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:00:58,426 - INFO - ('127.0.0.1', 56702) adresinden yeni baðlantý
+2025-01-10 18:00:58,452 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:01,135 - INFO - ('127.0.0.1', 56710) adresinden yeni baðlantý
+2025-01-10 18:01:01,160 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:02,164 - INFO - ('127.0.0.1', 56712) adresinden yeni baðlantý
+2025-01-10 18:01:02,204 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:02,414 - INFO - ('127.0.0.1', 56714) adresinden yeni baðlantý
+2025-01-10 18:01:02,415 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:05,141 - INFO - ('127.0.0.1', 56722) adresinden yeni baðlantý
+2025-01-10 18:01:05,171 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:06,188 - INFO - ('127.0.0.1', 56724) adresinden yeni baðlantý
+2025-01-10 18:01:06,220 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:06,466 - INFO - ('127.0.0.1', 56726) adresinden yeni baðlantý
+2025-01-10 18:01:06,503 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:09,176 - INFO - ('127.0.0.1', 56734) adresinden yeni baðlantý
+2025-01-10 18:01:09,208 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:10,216 - INFO - ('127.0.0.1', 56736) adresinden yeni baðlantý
+2025-01-10 18:01:10,245 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:10,483 - INFO - ('127.0.0.1', 56738) adresinden yeni baðlantý
+2025-01-10 18:01:10,507 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:13,191 - INFO - ('127.0.0.1', 56746) adresinden yeni baðlantý
+2025-01-10 18:01:13,218 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:14,234 - INFO - ('127.0.0.1', 56748) adresinden yeni baðlantý
+2025-01-10 18:01:14,263 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:14,497 - INFO - ('127.0.0.1', 56750) adresinden yeni baðlantý
+2025-01-10 18:01:14,511 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:17,195 - INFO - ('127.0.0.1', 56758) adresinden yeni baðlantý
+2025-01-10 18:01:17,219 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:18,223 - INFO - ('127.0.0.1', 56760) adresinden yeni baðlantý
+2025-01-10 18:01:18,252 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:18,535 - INFO - ('127.0.0.1', 56762) adresinden yeni baðlantý
+2025-01-10 18:01:18,561 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:21,213 - INFO - ('127.0.0.1', 56770) adresinden yeni baðlantý
+2025-01-10 18:01:21,260 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:22,241 - INFO - ('127.0.0.1', 56772) adresinden yeni baðlantý
+2025-01-10 18:01:22,271 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:22,523 - INFO - ('127.0.0.1', 56774) adresinden yeni baðlantý
+2025-01-10 18:01:22,556 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:25,238 - INFO - ('127.0.0.1', 56782) adresinden yeni baðlantý
+2025-01-10 18:01:25,268 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:26,277 - INFO - ('127.0.0.1', 56784) adresinden yeni baðlantý
+2025-01-10 18:01:26,306 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:26,561 - INFO - ('127.0.0.1', 56786) adresinden yeni baðlantý
+2025-01-10 18:01:26,600 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:29,243 - INFO - ('127.0.0.1', 56794) adresinden yeni baðlantý
+2025-01-10 18:01:29,275 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:30,300 - INFO - ('127.0.0.1', 56796) adresinden yeni baðlantý
+2025-01-10 18:01:30,328 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:30,581 - INFO - ('127.0.0.1', 56798) adresinden yeni baðlantý
+2025-01-10 18:01:30,583 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:33,261 - INFO - ('127.0.0.1', 56806) adresinden yeni baðlantý
+2025-01-10 18:01:33,288 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:34,323 - INFO - ('127.0.0.1', 56808) adresinden yeni baðlantý
+2025-01-10 18:01:34,351 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:34,593 - INFO - ('127.0.0.1', 56810) adresinden yeni baðlantý
+2025-01-10 18:01:34,630 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:37,298 - INFO - ('127.0.0.1', 56818) adresinden yeni baðlantý
+2025-01-10 18:01:37,331 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:38,345 - INFO - ('127.0.0.1', 56820) adresinden yeni baðlantý
+2025-01-10 18:01:38,381 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:38,595 - INFO - ('127.0.0.1', 56822) adresinden yeni baðlantý
+2025-01-10 18:01:38,631 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:41,303 - INFO - ('127.0.0.1', 56830) adresinden yeni baðlantý
+2025-01-10 18:01:41,304 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:42,359 - INFO - ('127.0.0.1', 56832) adresinden yeni baðlantý
+2025-01-10 18:01:42,385 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:42,625 - INFO - ('127.0.0.1', 56834) adresinden yeni baðlantý
+2025-01-10 18:01:42,640 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:45,312 - INFO - ('127.0.0.1', 56842) adresinden yeni baðlantý
+2025-01-10 18:01:45,341 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:46,354 - INFO - ('127.0.0.1', 56844) adresinden yeni baðlantý
+2025-01-10 18:01:46,380 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:46,651 - INFO - ('127.0.0.1', 56846) adresinden yeni baðlantý
+2025-01-10 18:01:46,686 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:49,343 - INFO - ('127.0.0.1', 56854) adresinden yeni baðlantý
+2025-01-10 18:01:49,371 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:50,381 - INFO - ('127.0.0.1', 56856) adresinden yeni baðlantý
+2025-01-10 18:01:50,414 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:50,660 - INFO - ('127.0.0.1', 56858) adresinden yeni baðlantý
+2025-01-10 18:01:50,691 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:53,364 - INFO - ('127.0.0.1', 56866) adresinden yeni baðlantý
+2025-01-10 18:01:53,407 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:54,391 - INFO - ('127.0.0.1', 56868) adresinden yeni baðlantý
+2025-01-10 18:01:54,419 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:54,668 - INFO - ('127.0.0.1', 56870) adresinden yeni baðlantý
+2025-01-10 18:01:54,698 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:01:57,358 - INFO - ('127.0.0.1', 56880) adresinden yeni baðlantý
+2025-01-10 18:01:57,390 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:01:58,372 - INFO - ('127.0.0.1', 56882) adresinden yeni baðlantý
+2025-01-10 18:01:58,405 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:01:58,669 - INFO - ('127.0.0.1', 56884) adresinden yeni baðlantý
+2025-01-10 18:01:58,701 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:01,392 - INFO - ('127.0.0.1', 56892) adresinden yeni baðlantý
+2025-01-10 18:02:01,415 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:02,407 - INFO - ('127.0.0.1', 56894) adresinden yeni baðlantý
+2025-01-10 18:02:02,432 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:02,703 - INFO - ('127.0.0.1', 56896) adresinden yeni baðlantý
+2025-01-10 18:02:02,734 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:05,402 - INFO - ('127.0.0.1', 56904) adresinden yeni baðlantý
+2025-01-10 18:02:05,422 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:06,425 - INFO - ('127.0.0.1', 56906) adresinden yeni baðlantý
+2025-01-10 18:02:06,457 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:06,706 - INFO - ('127.0.0.1', 56908) adresinden yeni baðlantý
+2025-01-10 18:02:06,733 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:09,408 - INFO - ('127.0.0.1', 56916) adresinden yeni baðlantý
+2025-01-10 18:02:09,409 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:10,447 - INFO - ('127.0.0.1', 56918) adresinden yeni baðlantý
+2025-01-10 18:02:10,473 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:10,715 - INFO - ('127.0.0.1', 56920) adresinden yeni baðlantý
+2025-01-10 18:02:10,744 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:13,446 - INFO - ('127.0.0.1', 56928) adresinden yeni baðlantý
+2025-01-10 18:02:13,470 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:14,481 - INFO - ('127.0.0.1', 56930) adresinden yeni baðlantý
+2025-01-10 18:02:14,506 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:14,738 - INFO - ('127.0.0.1', 56932) adresinden yeni baðlantý
+2025-01-10 18:02:14,763 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:17,459 - INFO - ('127.0.0.1', 56940) adresinden yeni baðlantý
+2025-01-10 18:02:17,487 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:18,492 - INFO - ('127.0.0.1', 56943) adresinden yeni baðlantý
+2025-01-10 18:02:18,528 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:18,726 - INFO - ('127.0.0.1', 56945) adresinden yeni baðlantý
+2025-01-10 18:02:18,753 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:21,481 - INFO - ('127.0.0.1', 56953) adresinden yeni baðlantý
+2025-01-10 18:02:21,495 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:22,506 - INFO - ('127.0.0.1', 56955) adresinden yeni baðlantý
+2025-01-10 18:02:22,532 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:22,739 - INFO - ('127.0.0.1', 56957) adresinden yeni baðlantý
+2025-01-10 18:02:22,765 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:25,495 - INFO - ('127.0.0.1', 56965) adresinden yeni baðlantý
+2025-01-10 18:02:25,525 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:26,518 - INFO - ('127.0.0.1', 56967) adresinden yeni baðlantý
+2025-01-10 18:02:26,550 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:26,756 - INFO - ('127.0.0.1', 56969) adresinden yeni baðlantý
+2025-01-10 18:02:26,783 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:29,514 - INFO - ('127.0.0.1', 56977) adresinden yeni baðlantý
+2025-01-10 18:02:29,550 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:30,539 - INFO - ('127.0.0.1', 56979) adresinden yeni baðlantý
+2025-01-10 18:02:30,569 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:30,803 - INFO - ('127.0.0.1', 56981) adresinden yeni baðlantý
+2025-01-10 18:02:30,843 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:33,542 - INFO - ('127.0.0.1', 56989) adresinden yeni baðlantý
+2025-01-10 18:02:33,569 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:34,562 - INFO - ('127.0.0.1', 56991) adresinden yeni baðlantý
+2025-01-10 18:02:34,592 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:34,805 - INFO - ('127.0.0.1', 56993) adresinden yeni baðlantý
+2025-01-10 18:02:34,820 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:37,560 - INFO - ('127.0.0.1', 57001) adresinden yeni baðlantý
+2025-01-10 18:02:37,599 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:38,571 - INFO - ('127.0.0.1', 57003) adresinden yeni baðlantý
+2025-01-10 18:02:38,599 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:38,821 - INFO - ('127.0.0.1', 57005) adresinden yeni baðlantý
+2025-01-10 18:02:38,854 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:41,558 - INFO - ('127.0.0.1', 57013) adresinden yeni baðlantý
+2025-01-10 18:02:41,583 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:42,582 - INFO - ('127.0.0.1', 57015) adresinden yeni baðlantý
+2025-01-10 18:02:42,606 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:42,847 - INFO - ('127.0.0.1', 57017) adresinden yeni baðlantý
+2025-01-10 18:02:42,873 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:45,576 - INFO - ('127.0.0.1', 57025) adresinden yeni baðlantý
+2025-01-10 18:02:45,606 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:46,590 - INFO - ('127.0.0.1', 57027) adresinden yeni baðlantý
+2025-01-10 18:02:46,621 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:46,854 - INFO - ('127.0.0.1', 57029) adresinden yeni baðlantý
+2025-01-10 18:02:46,890 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:49,597 - INFO - ('127.0.0.1', 57037) adresinden yeni baðlantý
+2025-01-10 18:02:49,630 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:50,623 - INFO - ('127.0.0.1', 57039) adresinden yeni baðlantý
+2025-01-10 18:02:50,658 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:50,873 - INFO - ('127.0.0.1', 57041) adresinden yeni baðlantý
+2025-01-10 18:02:50,874 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:53,628 - INFO - ('127.0.0.1', 57049) adresinden yeni baðlantý
+2025-01-10 18:02:53,654 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:54,642 - INFO - ('127.0.0.1', 57051) adresinden yeni baðlantý
+2025-01-10 18:02:54,671 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:54,898 - INFO - ('127.0.0.1', 57053) adresinden yeni baðlantý
+2025-01-10 18:02:54,929 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:02:57,648 - INFO - ('127.0.0.1', 57061) adresinden yeni baðlantý
+2025-01-10 18:02:57,692 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:02:58,635 - INFO - ('127.0.0.1', 57063) adresinden yeni baðlantý
+2025-01-10 18:02:58,666 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:02:58,914 - INFO - ('127.0.0.1', 57065) adresinden yeni baðlantý
+2025-01-10 18:02:58,941 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:01,667 - INFO - ('127.0.0.1', 57073) adresinden yeni baðlantý
+2025-01-10 18:03:01,696 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:02,664 - INFO - ('127.0.0.1', 57075) adresinden yeni baðlantý
+2025-01-10 18:03:02,700 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:02,928 - INFO - ('127.0.0.1', 57077) adresinden yeni baðlantý
+2025-01-10 18:03:02,943 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:05,678 - INFO - ('127.0.0.1', 57085) adresinden yeni baðlantý
+2025-01-10 18:03:05,707 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:06,673 - INFO - ('127.0.0.1', 57087) adresinden yeni baðlantý
+2025-01-10 18:03:06,702 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:06,936 - INFO - ('127.0.0.1', 57089) adresinden yeni baðlantý
+2025-01-10 18:03:06,969 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:09,651 - INFO - ('127.0.0.1', 57097) adresinden yeni baðlantý
+2025-01-10 18:03:09,676 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:10,670 - INFO - ('127.0.0.1', 57099) adresinden yeni baðlantý
+2025-01-10 18:03:10,699 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:10,921 - INFO - ('127.0.0.1', 57101) adresinden yeni baðlantý
+2025-01-10 18:03:10,953 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:13,705 - INFO - ('127.0.0.1', 57109) adresinden yeni baðlantý
+2025-01-10 18:03:13,728 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:14,704 - INFO - ('127.0.0.1', 57111) adresinden yeni baðlantý
+2025-01-10 18:03:14,742 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:14,964 - INFO - ('127.0.0.1', 57113) adresinden yeni baðlantý
+2025-01-10 18:03:14,995 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:17,714 - INFO - ('127.0.0.1', 57121) adresinden yeni baðlantý
+2025-01-10 18:03:17,759 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:18,697 - INFO - ('127.0.0.1', 57123) adresinden yeni baðlantý
+2025-01-10 18:03:18,738 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:18,957 - INFO - ('127.0.0.1', 57125) adresinden yeni baðlantý
+2025-01-10 18:03:19,001 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:21,720 - INFO - ('127.0.0.1', 57134) adresinden yeni baðlantý
+2025-01-10 18:03:21,755 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:22,693 - INFO - ('127.0.0.1', 57136) adresinden yeni baðlantý
+2025-01-10 18:03:22,730 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:22,985 - INFO - ('127.0.0.1', 57138) adresinden yeni baðlantý
+2025-01-10 18:03:23,022 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:25,761 - INFO - ('127.0.0.1', 57146) adresinden yeni baðlantý
+2025-01-10 18:03:25,794 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:26,727 - INFO - ('127.0.0.1', 57148) adresinden yeni baðlantý
+2025-01-10 18:03:26,752 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:27,023 - INFO - ('127.0.0.1', 57150) adresinden yeni baðlantý
+2025-01-10 18:03:27,025 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:29,767 - INFO - ('127.0.0.1', 57158) adresinden yeni baðlantý
+2025-01-10 18:03:29,797 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:30,745 - INFO - ('127.0.0.1', 57160) adresinden yeni baðlantý
+2025-01-10 18:03:30,776 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:31,039 - INFO - ('127.0.0.1', 57162) adresinden yeni baðlantý
+2025-01-10 18:03:31,054 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:33,796 - INFO - ('127.0.0.1', 57170) adresinden yeni baðlantý
+2025-01-10 18:03:33,826 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:34,757 - INFO - ('127.0.0.1', 57172) adresinden yeni baðlantý
+2025-01-10 18:03:34,794 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:35,029 - INFO - ('127.0.0.1', 57174) adresinden yeni baðlantý
+2025-01-10 18:03:35,061 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:37,791 - INFO - ('127.0.0.1', 57182) adresinden yeni baðlantý
+2025-01-10 18:03:37,825 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:38,803 - INFO - ('127.0.0.1', 57184) adresinden yeni baðlantý
+2025-01-10 18:03:38,830 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:39,061 - INFO - ('127.0.0.1', 57186) adresinden yeni baðlantý
+2025-01-10 18:03:39,126 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:41,821 - INFO - ('127.0.0.1', 57194) adresinden yeni baðlantý
+2025-01-10 18:03:41,848 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:42,812 - INFO - ('127.0.0.1', 57196) adresinden yeni baðlantý
+2025-01-10 18:03:42,847 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:43,094 - INFO - ('127.0.0.1', 57198) adresinden yeni baðlantý
+2025-01-10 18:03:43,126 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:45,828 - INFO - ('127.0.0.1', 57206) adresinden yeni baðlantý
+2025-01-10 18:03:45,868 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:46,825 - INFO - ('127.0.0.1', 57208) adresinden yeni baðlantý
+2025-01-10 18:03:46,854 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:47,087 - INFO - ('127.0.0.1', 57210) adresinden yeni baðlantý
+2025-01-10 18:03:47,115 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:49,843 - INFO - ('127.0.0.1', 57218) adresinden yeni baðlantý
+2025-01-10 18:03:49,872 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:50,841 - INFO - ('127.0.0.1', 57220) adresinden yeni baðlantý
+2025-01-10 18:03:50,869 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:51,107 - INFO - ('127.0.0.1', 57222) adresinden yeni baðlantý
+2025-01-10 18:03:51,121 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:53,852 - INFO - ('127.0.0.1', 57230) adresinden yeni baðlantý
+2025-01-10 18:03:53,877 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:54,847 - INFO - ('127.0.0.1', 57232) adresinden yeni baðlantý
+2025-01-10 18:03:54,874 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:55,129 - INFO - ('127.0.0.1', 57234) adresinden yeni baðlantý
+2025-01-10 18:03:55,159 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:03:57,885 - INFO - ('127.0.0.1', 57242) adresinden yeni baðlantý
+2025-01-10 18:03:57,922 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:03:58,849 - INFO - ('127.0.0.1', 57244) adresinden yeni baðlantý
+2025-01-10 18:03:58,875 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:03:59,144 - INFO - ('127.0.0.1', 57246) adresinden yeni baðlantý
+2025-01-10 18:03:59,178 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:01,892 - INFO - ('127.0.0.1', 57254) adresinden yeni baðlantý
+2025-01-10 18:04:01,932 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:02,869 - INFO - ('127.0.0.1', 57256) adresinden yeni baðlantý
+2025-01-10 18:04:02,905 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:03,136 - INFO - ('127.0.0.1', 57258) adresinden yeni baðlantý
+2025-01-10 18:04:03,166 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:05,901 - INFO - ('127.0.0.1', 57266) adresinden yeni baðlantý
+2025-01-10 18:04:05,931 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:06,897 - INFO - ('127.0.0.1', 57268) adresinden yeni baðlantý
+2025-01-10 18:04:06,927 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:07,177 - INFO - ('127.0.0.1', 57270) adresinden yeni baðlantý
+2025-01-10 18:04:07,204 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:09,911 - INFO - ('127.0.0.1', 57278) adresinden yeni baðlantý
+2025-01-10 18:04:09,912 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:10,903 - INFO - ('127.0.0.1', 57280) adresinden yeni baðlantý
+2025-01-10 18:04:10,945 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:11,171 - INFO - ('127.0.0.1', 57282) adresinden yeni baðlantý
+2025-01-10 18:04:11,172 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:13,903 - INFO - ('127.0.0.1', 57290) adresinden yeni baðlantý
+2025-01-10 18:04:13,937 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:14,901 - INFO - ('127.0.0.1', 57292) adresinden yeni baðlantý
+2025-01-10 18:04:14,936 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:15,207 - INFO - ('127.0.0.1', 57294) adresinden yeni baðlantý
+2025-01-10 18:04:15,245 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:17,922 - INFO - ('127.0.0.1', 57302) adresinden yeni baðlantý
+2025-01-10 18:04:17,951 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:18,919 - INFO - ('127.0.0.1', 57304) adresinden yeni baðlantý
+2025-01-10 18:04:18,950 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:19,216 - INFO - ('127.0.0.1', 57306) adresinden yeni baðlantý
+2025-01-10 18:04:19,266 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:21,966 - INFO - ('127.0.0.1', 57314) adresinden yeni baðlantý
+2025-01-10 18:04:21,993 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:22,926 - INFO - ('127.0.0.1', 57316) adresinden yeni baðlantý
+2025-01-10 18:04:22,957 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:23,222 - INFO - ('127.0.0.1', 57318) adresinden yeni baðlantý
+2025-01-10 18:04:23,257 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:25,991 - INFO - ('127.0.0.1', 57326) adresinden yeni baðlantý
+2025-01-10 18:04:26,021 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:26,953 - INFO - ('127.0.0.1', 57328) adresinden yeni baðlantý
+2025-01-10 18:04:26,988 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:27,247 - INFO - ('127.0.0.1', 57330) adresinden yeni baðlantý
+2025-01-10 18:04:27,273 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:30,001 - INFO - ('127.0.0.1', 57338) adresinden yeni baðlantý
+2025-01-10 18:04:30,030 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:30,950 - INFO - ('127.0.0.1', 57340) adresinden yeni baðlantý
+2025-01-10 18:04:30,986 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:31,244 - INFO - ('127.0.0.1', 57342) adresinden yeni baðlantý
+2025-01-10 18:04:31,271 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:34,007 - INFO - ('127.0.0.1', 57350) adresinden yeni baðlantý
+2025-01-10 18:04:34,038 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:34,985 - INFO - ('127.0.0.1', 57352) adresinden yeni baðlantý
+2025-01-10 18:04:35,015 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:35,281 - INFO - ('127.0.0.1', 57354) adresinden yeni baðlantý
+2025-01-10 18:04:35,307 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:38,025 - INFO - ('127.0.0.1', 57362) adresinden yeni baðlantý
+2025-01-10 18:04:38,063 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:38,978 - INFO - ('127.0.0.1', 57364) adresinden yeni baðlantý
+2025-01-10 18:04:39,003 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:39,289 - INFO - ('127.0.0.1', 57366) adresinden yeni baðlantý
+2025-01-10 18:04:39,317 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:42,058 - INFO - ('127.0.0.1', 57374) adresinden yeni baðlantý
+2025-01-10 18:04:42,083 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:43,011 - INFO - ('127.0.0.1', 57376) adresinden yeni baðlantý
+2025-01-10 18:04:43,046 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:43,292 - INFO - ('127.0.0.1', 57378) adresinden yeni baðlantý
+2025-01-10 18:04:43,319 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:46,061 - INFO - ('127.0.0.1', 57386) adresinden yeni baðlantý
+2025-01-10 18:04:46,087 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:47,031 - INFO - ('127.0.0.1', 57388) adresinden yeni baðlantý
+2025-01-10 18:04:47,053 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:47,327 - INFO - ('127.0.0.1', 57390) adresinden yeni baðlantý
+2025-01-10 18:04:47,352 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:50,095 - INFO - ('127.0.0.1', 57398) adresinden yeni baðlantý
+2025-01-10 18:04:50,130 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:51,063 - INFO - ('127.0.0.1', 57400) adresinden yeni baðlantý
+2025-01-10 18:04:51,089 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:51,343 - INFO - ('127.0.0.1', 57402) adresinden yeni baðlantý
+2025-01-10 18:04:51,373 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:54,110 - INFO - ('127.0.0.1', 57410) adresinden yeni baðlantý
+2025-01-10 18:04:54,147 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:55,059 - INFO - ('127.0.0.1', 57412) adresinden yeni baðlantý
+2025-01-10 18:04:55,103 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:55,371 - INFO - ('127.0.0.1', 57414) adresinden yeni baðlantý
+2025-01-10 18:04:55,396 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:04:58,097 - INFO - ('127.0.0.1', 57422) adresinden yeni baðlantý
+2025-01-10 18:04:58,111 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:04:59,076 - INFO - ('127.0.0.1', 57424) adresinden yeni baðlantý
+2025-01-10 18:04:59,099 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:04:59,373 - INFO - ('127.0.0.1', 57426) adresinden yeni baðlantý
+2025-01-10 18:04:59,400 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:02,117 - INFO - ('127.0.0.1', 57434) adresinden yeni baðlantý
+2025-01-10 18:05:02,147 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:03,102 - INFO - ('127.0.0.1', 57436) adresinden yeni baðlantý
+2025-01-10 18:05:03,117 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:03,399 - INFO - ('127.0.0.1', 57438) adresinden yeni baðlantý
+2025-01-10 18:05:03,434 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:06,151 - INFO - ('127.0.0.1', 57446) adresinden yeni baðlantý
+2025-01-10 18:05:06,178 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:07,131 - INFO - ('127.0.0.1', 57448) adresinden yeni baðlantý
+2025-01-10 18:05:07,158 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:07,411 - INFO - ('127.0.0.1', 57450) adresinden yeni baðlantý
+2025-01-10 18:05:07,438 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:10,170 - INFO - ('127.0.0.1', 57458) adresinden yeni baðlantý
+2025-01-10 18:05:10,203 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:11,137 - INFO - ('127.0.0.1', 57460) adresinden yeni baðlantý
+2025-01-10 18:05:11,164 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:11,433 - INFO - ('127.0.0.1', 57462) adresinden yeni baðlantý
+2025-01-10 18:05:11,460 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:14,187 - INFO - ('127.0.0.1', 57470) adresinden yeni baðlantý
+2025-01-10 18:05:14,215 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:15,163 - INFO - ('127.0.0.1', 57472) adresinden yeni baðlantý
+2025-01-10 18:05:15,164 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:15,442 - INFO - ('127.0.0.1', 57474) adresinden yeni baðlantý
+2025-01-10 18:05:15,468 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:18,184 - INFO - ('127.0.0.1', 57482) adresinden yeni baðlantý
+2025-01-10 18:05:18,185 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:19,185 - INFO - ('127.0.0.1', 57484) adresinden yeni baðlantý
+2025-01-10 18:05:19,217 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:19,473 - INFO - ('127.0.0.1', 57486) adresinden yeni baðlantý
+2025-01-10 18:05:19,499 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:22,213 - INFO - ('127.0.0.1', 57494) adresinden yeni baðlantý
+2025-01-10 18:05:22,249 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:23,191 - INFO - ('127.0.0.1', 57496) adresinden yeni baðlantý
+2025-01-10 18:05:23,225 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:23,474 - INFO - ('127.0.0.1', 57498) adresinden yeni baðlantý
+2025-01-10 18:05:23,475 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:26,249 - INFO - ('127.0.0.1', 57507) adresinden yeni baðlantý
+2025-01-10 18:05:26,274 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:27,201 - INFO - ('127.0.0.1', 57509) adresinden yeni baðlantý
+2025-01-10 18:05:27,233 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:27,513 - INFO - ('127.0.0.1', 57511) adresinden yeni baðlantý
+2025-01-10 18:05:27,548 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:30,260 - INFO - ('127.0.0.1', 57519) adresinden yeni baðlantý
+2025-01-10 18:05:30,292 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:31,239 - INFO - ('127.0.0.1', 57521) adresinden yeni baðlantý
+2025-01-10 18:05:31,293 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:31,522 - INFO - ('127.0.0.1', 57523) adresinden yeni baðlantý
+2025-01-10 18:05:31,571 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:34,294 - INFO - ('127.0.0.1', 57531) adresinden yeni baðlantý
+2025-01-10 18:05:34,330 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:35,247 - INFO - ('127.0.0.1', 57533) adresinden yeni baðlantý
+2025-01-10 18:05:35,280 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:35,526 - INFO - ('127.0.0.1', 57535) adresinden yeni baðlantý
+2025-01-10 18:05:35,560 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:38,310 - INFO - ('127.0.0.1', 57543) adresinden yeni baðlantý
+2025-01-10 18:05:38,344 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:39,272 - INFO - ('127.0.0.1', 57545) adresinden yeni baðlantý
+2025-01-10 18:05:39,307 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:39,567 - INFO - ('127.0.0.1', 57547) adresinden yeni baðlantý
+2025-01-10 18:05:39,601 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:42,300 - INFO - ('127.0.0.1', 57555) adresinden yeni baðlantý
+2025-01-10 18:05:42,334 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:43,278 - INFO - ('127.0.0.1', 57557) adresinden yeni baðlantý
+2025-01-10 18:05:43,305 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:43,556 - INFO - ('127.0.0.1', 57559) adresinden yeni baðlantý
+2025-01-10 18:05:43,557 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:46,315 - INFO - ('127.0.0.1', 57567) adresinden yeni baðlantý
+2025-01-10 18:05:46,347 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:47,287 - INFO - ('127.0.0.1', 57569) adresinden yeni baðlantý
+2025-01-10 18:05:47,320 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:47,597 - INFO - ('127.0.0.1', 57571) adresinden yeni baðlantý
+2025-01-10 18:05:47,630 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:50,332 - INFO - ('127.0.0.1', 57579) adresinden yeni baðlantý
+2025-01-10 18:05:50,362 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:51,294 - INFO - ('127.0.0.1', 57581) adresinden yeni baðlantý
+2025-01-10 18:05:51,295 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:51,590 - INFO - ('127.0.0.1', 57583) adresinden yeni baðlantý
+2025-01-10 18:05:51,621 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:54,323 - INFO - ('127.0.0.1', 57591) adresinden yeni baðlantý
+2025-01-10 18:05:54,369 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:55,354 - INFO - ('127.0.0.1', 57593) adresinden yeni baðlantý
+2025-01-10 18:05:55,387 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:55,619 - INFO - ('127.0.0.1', 57595) adresinden yeni baðlantý
+2025-01-10 18:05:55,655 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:05:58,382 - INFO - ('127.0.0.1', 57603) adresinden yeni baðlantý
+2025-01-10 18:05:58,431 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:05:59,383 - INFO - ('127.0.0.1', 57605) adresinden yeni baðlantý
+2025-01-10 18:05:59,411 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:05:59,658 - INFO - ('127.0.0.1', 57607) adresinden yeni baðlantý
+2025-01-10 18:05:59,698 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:02,403 - INFO - ('127.0.0.1', 57615) adresinden yeni baðlantý
+2025-01-10 18:06:02,434 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:03,370 - INFO - ('127.0.0.1', 57617) adresinden yeni baðlantý
+2025-01-10 18:06:03,406 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:03,663 - INFO - ('127.0.0.1', 57619) adresinden yeni baðlantý
+2025-01-10 18:06:03,696 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:06,427 - INFO - ('127.0.0.1', 57627) adresinden yeni baðlantý
+2025-01-10 18:06:06,472 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:07,407 - INFO - ('127.0.0.1', 57629) adresinden yeni baðlantý
+2025-01-10 18:06:07,437 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:07,689 - INFO - ('127.0.0.1', 57631) adresinden yeni baðlantý
+2025-01-10 18:06:07,690 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:10,452 - INFO - ('127.0.0.1', 57639) adresinden yeni baðlantý
+2025-01-10 18:06:10,476 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:11,421 - INFO - ('127.0.0.1', 57641) adresinden yeni baðlantý
+2025-01-10 18:06:11,447 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:11,702 - INFO - ('127.0.0.1', 57643) adresinden yeni baðlantý
+2025-01-10 18:06:11,717 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:14,490 - INFO - ('127.0.0.1', 57651) adresinden yeni baðlantý
+2025-01-10 18:06:14,519 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:15,452 - INFO - ('127.0.0.1', 57653) adresinden yeni baðlantý
+2025-01-10 18:06:15,486 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:15,747 - INFO - ('127.0.0.1', 57655) adresinden yeni baðlantý
+2025-01-10 18:06:15,777 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:18,509 - INFO - ('127.0.0.1', 57663) adresinden yeni baðlantý
+2025-01-10 18:06:18,536 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:19,473 - INFO - ('127.0.0.1', 57665) adresinden yeni baðlantý
+2025-01-10 18:06:19,513 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:19,769 - INFO - ('127.0.0.1', 57667) adresinden yeni baðlantý
+2025-01-10 18:06:19,799 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:22,535 - INFO - ('127.0.0.1', 57675) adresinden yeni baðlantý
+2025-01-10 18:06:22,562 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:23,464 - INFO - ('127.0.0.1', 57677) adresinden yeni baðlantý
+2025-01-10 18:06:23,492 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:23,773 - INFO - ('127.0.0.1', 57679) adresinden yeni baðlantý
+2025-01-10 18:06:23,800 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:26,558 - INFO - ('127.0.0.1', 57687) adresinden yeni baðlantý
+2025-01-10 18:06:26,592 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:27,480 - INFO - ('127.0.0.1', 57689) adresinden yeni baðlantý
+2025-01-10 18:06:27,509 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:27,789 - INFO - ('127.0.0.1', 57691) adresinden yeni baðlantý
+2025-01-10 18:06:27,823 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:30,565 - INFO - ('127.0.0.1', 57699) adresinden yeni baðlantý
+2025-01-10 18:06:30,579 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:31,499 - INFO - ('127.0.0.1', 57701) adresinden yeni baðlantý
+2025-01-10 18:06:31,543 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:31,812 - INFO - ('127.0.0.1', 57703) adresinden yeni baðlantý
+2025-01-10 18:06:31,838 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:34,568 - INFO - ('127.0.0.1', 57711) adresinden yeni baðlantý
+2025-01-10 18:06:34,590 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:35,499 - INFO - ('127.0.0.1', 57713) adresinden yeni baðlantý
+2025-01-10 18:06:35,526 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:35,827 - INFO - ('127.0.0.1', 57715) adresinden yeni baðlantý
+2025-01-10 18:06:35,842 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:38,594 - INFO - ('127.0.0.1', 57723) adresinden yeni baðlantý
+2025-01-10 18:06:38,620 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:39,528 - INFO - ('127.0.0.1', 57725) adresinden yeni baðlantý
+2025-01-10 18:06:39,559 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:39,840 - INFO - ('127.0.0.1', 57727) adresinden yeni baðlantý
+2025-01-10 18:06:39,855 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:42,606 - INFO - ('127.0.0.1', 57735) adresinden yeni baðlantý
+2025-01-10 18:06:42,632 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:43,541 - INFO - ('127.0.0.1', 57737) adresinden yeni baðlantý
+2025-01-10 18:06:43,567 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:43,836 - INFO - ('127.0.0.1', 57739) adresinden yeni baðlantý
+2025-01-10 18:06:43,865 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:46,612 - INFO - ('127.0.0.1', 57747) adresinden yeni baðlantý
+2025-01-10 18:06:46,637 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:47,545 - INFO - ('127.0.0.1', 57749) adresinden yeni baðlantý
+2025-01-10 18:06:47,588 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:47,871 - INFO - ('127.0.0.1', 57751) adresinden yeni baðlantý
+2025-01-10 18:06:47,904 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:50,627 - INFO - ('127.0.0.1', 57759) adresinden yeni baðlantý
+2025-01-10 18:06:50,656 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:51,545 - INFO - ('127.0.0.1', 57761) adresinden yeni baðlantý
+2025-01-10 18:06:51,592 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:51,883 - INFO - ('127.0.0.1', 57763) adresinden yeni baðlantý
+2025-01-10 18:06:51,908 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:54,648 - INFO - ('127.0.0.1', 57771) adresinden yeni baðlantý
+2025-01-10 18:06:54,674 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:55,571 - INFO - ('127.0.0.1', 57773) adresinden yeni baðlantý
+2025-01-10 18:06:55,604 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:55,880 - INFO - ('127.0.0.1', 57775) adresinden yeni baðlantý
+2025-01-10 18:06:55,911 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:06:58,673 - INFO - ('127.0.0.1', 57783) adresinden yeni baðlantý
+2025-01-10 18:06:58,702 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:06:59,578 - INFO - ('127.0.0.1', 57785) adresinden yeni baðlantý
+2025-01-10 18:06:59,613 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:06:59,904 - INFO - ('127.0.0.1', 57787) adresinden yeni baðlantý
+2025-01-10 18:06:59,932 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:02,662 - INFO - ('127.0.0.1', 57795) adresinden yeni baðlantý
+2025-01-10 18:07:02,691 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:03,610 - INFO - ('127.0.0.1', 57797) adresinden yeni baðlantý
+2025-01-10 18:07:03,650 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:03,904 - INFO - ('127.0.0.1', 57799) adresinden yeni baðlantý
+2025-01-10 18:07:03,936 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:06,702 - INFO - ('127.0.0.1', 57807) adresinden yeni baðlantý
+2025-01-10 18:07:06,725 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:07,622 - INFO - ('127.0.0.1', 57809) adresinden yeni baðlantý
+2025-01-10 18:07:07,657 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:07,937 - INFO - ('127.0.0.1', 57811) adresinden yeni baðlantý
+2025-01-10 18:07:07,981 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:10,710 - INFO - ('127.0.0.1', 57819) adresinden yeni baðlantý
+2025-01-10 18:07:10,742 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:11,635 - INFO - ('127.0.0.1', 57821) adresinden yeni baðlantý
+2025-01-10 18:07:11,662 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:11,977 - INFO - ('127.0.0.1', 57823) adresinden yeni baðlantý
+2025-01-10 18:07:12,001 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:14,724 - INFO - ('127.0.0.1', 57831) adresinden yeni baðlantý
+2025-01-10 18:07:14,756 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:15,646 - INFO - ('127.0.0.1', 57833) adresinden yeni baðlantý
+2025-01-10 18:07:15,679 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:15,957 - INFO - ('127.0.0.1', 57835) adresinden yeni baðlantý
+2025-01-10 18:07:15,991 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:18,729 - INFO - ('127.0.0.1', 57843) adresinden yeni baðlantý
+2025-01-10 18:07:18,755 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:19,680 - INFO - ('127.0.0.1', 57845) adresinden yeni baðlantý
+2025-01-10 18:07:19,706 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:20,004 - INFO - ('127.0.0.1', 57847) adresinden yeni baðlantý
+2025-01-10 18:07:20,037 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:22,766 - INFO - ('127.0.0.1', 57856) adresinden yeni baðlantý
+2025-01-10 18:07:22,802 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:23,715 - INFO - ('127.0.0.1', 57858) adresinden yeni baðlantý
+2025-01-10 18:07:23,745 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:24,040 - INFO - ('127.0.0.1', 57862) adresinden yeni baðlantý
+2025-01-10 18:07:24,072 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:26,788 - INFO - ('127.0.0.1', 57870) adresinden yeni baðlantý
+2025-01-10 18:07:26,823 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:27,712 - INFO - ('127.0.0.1', 57872) adresinden yeni baðlantý
+2025-01-10 18:07:27,739 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:28,025 - INFO - ('127.0.0.1', 57874) adresinden yeni baðlantý
+2025-01-10 18:07:28,051 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:30,798 - INFO - ('127.0.0.1', 57882) adresinden yeni baðlantý
+2025-01-10 18:07:30,828 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:31,723 - INFO - ('127.0.0.1', 57884) adresinden yeni baðlantý
+2025-01-10 18:07:31,749 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:32,063 - INFO - ('127.0.0.1', 57887) adresinden yeni baðlantý
+2025-01-10 18:07:32,091 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:34,814 - INFO - ('127.0.0.1', 57895) adresinden yeni baðlantý
+2025-01-10 18:07:34,853 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:35,749 - INFO - ('127.0.0.1', 57897) adresinden yeni baðlantý
+2025-01-10 18:07:35,780 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:36,062 - INFO - ('127.0.0.1', 57899) adresinden yeni baðlantý
+2025-01-10 18:07:36,089 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:38,851 - INFO - ('127.0.0.1', 57907) adresinden yeni baðlantý
+2025-01-10 18:07:38,880 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:39,788 - INFO - ('127.0.0.1', 57909) adresinden yeni baðlantý
+2025-01-10 18:07:39,799 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:40,120 - INFO - ('127.0.0.1', 57911) adresinden yeni baðlantý
+2025-01-10 18:07:40,149 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:42,867 - INFO - ('127.0.0.1', 57919) adresinden yeni baðlantý
+2025-01-10 18:07:42,894 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:43,795 - INFO - ('127.0.0.1', 57921) adresinden yeni baðlantý
+2025-01-10 18:07:43,819 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:44,122 - INFO - ('127.0.0.1', 57923) adresinden yeni baðlantý
+2025-01-10 18:07:44,150 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:46,886 - INFO - ('127.0.0.1', 57931) adresinden yeni baðlantý
+2025-01-10 18:07:46,901 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:47,803 - INFO - ('127.0.0.1', 57933) adresinden yeni baðlantý
+2025-01-10 18:07:47,818 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:48,118 - INFO - ('127.0.0.1', 57935) adresinden yeni baðlantý
+2025-01-10 18:07:48,155 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:50,908 - INFO - ('127.0.0.1', 57943) adresinden yeni baðlantý
+2025-01-10 18:07:50,936 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:51,808 - INFO - ('127.0.0.1', 57945) adresinden yeni baðlantý
+2025-01-10 18:07:51,841 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:52,134 - INFO - ('127.0.0.1', 57947) adresinden yeni baðlantý
+2025-01-10 18:07:52,147 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:54,917 - INFO - ('127.0.0.1', 57955) adresinden yeni baðlantý
+2025-01-10 18:07:54,954 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:55,832 - INFO - ('127.0.0.1', 57957) adresinden yeni baðlantý
+2025-01-10 18:07:55,847 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:07:56,159 - INFO - ('127.0.0.1', 57959) adresinden yeni baðlantý
+2025-01-10 18:07:56,184 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:07:58,931 - INFO - ('127.0.0.1', 57967) adresinden yeni baðlantý
+2025-01-10 18:07:58,958 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:07:59,833 - INFO - ('127.0.0.1', 57969) adresinden yeni baðlantý
+2025-01-10 18:07:59,860 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:00,175 - INFO - ('127.0.0.1', 57971) adresinden yeni baðlantý
+2025-01-10 18:08:00,201 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:02,948 - INFO - ('127.0.0.1', 57979) adresinden yeni baðlantý
+2025-01-10 18:08:02,993 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:03,852 - INFO - ('127.0.0.1', 57981) adresinden yeni baðlantý
+2025-01-10 18:08:03,888 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:04,179 - INFO - ('127.0.0.1', 57983) adresinden yeni baðlantý
+2025-01-10 18:08:04,206 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:06,961 - INFO - ('127.0.0.1', 57991) adresinden yeni baðlantý
+2025-01-10 18:08:06,994 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:07,894 - INFO - ('127.0.0.1', 57993) adresinden yeni baðlantý
+2025-01-10 18:08:07,924 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:08,220 - INFO - ('127.0.0.1', 57995) adresinden yeni baðlantý
+2025-01-10 18:08:08,221 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:10,961 - INFO - ('127.0.0.1', 58003) adresinden yeni baðlantý
+2025-01-10 18:08:10,995 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:11,909 - INFO - ('127.0.0.1', 58005) adresinden yeni baðlantý
+2025-01-10 18:08:11,950 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:12,235 - INFO - ('127.0.0.1', 58007) adresinden yeni baðlantý
+2025-01-10 18:08:12,269 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:14,985 - INFO - ('127.0.0.1', 58015) adresinden yeni baðlantý
+2025-01-10 18:08:15,013 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:15,918 - INFO - ('127.0.0.1', 58017) adresinden yeni baðlantý
+2025-01-10 18:08:15,952 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:16,230 - INFO - ('127.0.0.1', 58019) adresinden yeni baðlantý
+2025-01-10 18:08:16,260 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:18,990 - INFO - ('127.0.0.1', 58027) adresinden yeni baðlantý
+2025-01-10 18:08:18,990 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:19,938 - INFO - ('127.0.0.1', 58029) adresinden yeni baðlantý
+2025-01-10 18:08:19,964 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:20,244 - INFO - ('127.0.0.1', 58032) adresinden yeni baðlantý
+2025-01-10 18:08:20,271 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:23,014 - INFO - ('127.0.0.1', 58040) adresinden yeni baðlantý
+2025-01-10 18:08:23,033 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:23,950 - INFO - ('127.0.0.1', 58042) adresinden yeni baðlantý
+2025-01-10 18:08:23,965 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:24,265 - INFO - ('127.0.0.1', 58044) adresinden yeni baðlantý
+2025-01-10 18:08:24,296 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:27,042 - INFO - ('127.0.0.1', 58055) adresinden yeni baðlantý
+2025-01-10 18:08:27,076 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:27,956 - INFO - ('127.0.0.1', 58058) adresinden yeni baðlantý
+2025-01-10 18:08:27,984 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:28,264 - INFO - ('127.0.0.1', 58060) adresinden yeni baðlantý
+2025-01-10 18:08:28,312 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:31,056 - INFO - ('127.0.0.1', 58068) adresinden yeni baðlantý
+2025-01-10 18:08:31,088 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:31,999 - INFO - ('127.0.0.1', 58070) adresinden yeni baðlantý
+2025-01-10 18:08:32,033 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:32,301 - INFO - ('127.0.0.1', 58073) adresinden yeni baðlantý
+2025-01-10 18:08:32,336 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:35,071 - INFO - ('127.0.0.1', 58081) adresinden yeni baðlantý
+2025-01-10 18:08:35,094 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:36,015 - INFO - ('127.0.0.1', 58083) adresinden yeni baðlantý
+2025-01-10 18:08:36,074 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:36,317 - INFO - ('127.0.0.1', 58085) adresinden yeni baðlantý
+2025-01-10 18:08:36,348 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:39,089 - INFO - ('127.0.0.1', 58093) adresinden yeni baðlantý
+2025-01-10 18:08:39,105 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:40,029 - INFO - ('127.0.0.1', 58095) adresinden yeni baðlantý
+2025-01-10 18:08:40,060 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:40,330 - INFO - ('127.0.0.1', 58097) adresinden yeni baðlantý
+2025-01-10 18:08:40,362 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:43,104 - INFO - ('127.0.0.1', 58109) adresinden yeni baðlantý
+2025-01-10 18:08:43,143 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:44,049 - INFO - ('127.0.0.1', 58111) adresinden yeni baðlantý
+2025-01-10 18:08:44,092 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:44,364 - INFO - ('127.0.0.1', 58113) adresinden yeni baðlantý
+2025-01-10 18:08:44,405 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:47,132 - INFO - ('127.0.0.1', 58124) adresinden yeni baðlantý
+2025-01-10 18:08:47,167 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:48,081 - INFO - ('127.0.0.1', 58126) adresinden yeni baðlantý
+2025-01-10 18:08:48,129 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:48,390 - INFO - ('127.0.0.1', 58128) adresinden yeni baðlantý
+2025-01-10 18:08:48,405 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:51,132 - INFO - ('127.0.0.1', 58136) adresinden yeni baðlantý
+2025-01-10 18:08:51,163 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:52,077 - INFO - ('127.0.0.1', 58138) adresinden yeni baðlantý
+2025-01-10 18:08:52,078 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:52,405 - INFO - ('127.0.0.1', 58140) adresinden yeni baðlantý
+2025-01-10 18:08:52,442 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:55,155 - INFO - ('127.0.0.1', 58148) adresinden yeni baðlantý
+2025-01-10 18:08:55,191 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:08:56,105 - INFO - ('127.0.0.1', 58150) adresinden yeni baðlantý
+2025-01-10 18:08:56,149 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:08:56,415 - INFO - ('127.0.0.1', 58153) adresinden yeni baðlantý
+2025-01-10 18:08:56,443 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:08:59,154 - INFO - ('127.0.0.1', 58163) adresinden yeni baðlantý
+2025-01-10 18:08:59,154 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:00,122 - INFO - ('127.0.0.1', 58167) adresinden yeni baðlantý
+2025-01-10 18:09:00,139 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:00,425 - INFO - ('127.0.0.1', 58169) adresinden yeni baðlantý
+2025-01-10 18:09:00,473 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:03,176 - INFO - ('127.0.0.1', 58178) adresinden yeni baðlantý
+2025-01-10 18:09:03,205 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:04,159 - INFO - ('127.0.0.1', 58180) adresinden yeni baðlantý
+2025-01-10 18:09:04,175 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:04,445 - INFO - ('127.0.0.1', 58182) adresinden yeni baðlantý
+2025-01-10 18:09:04,491 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:07,157 - INFO - ('127.0.0.1', 58198) adresinden yeni baðlantý
+2025-01-10 18:09:07,189 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:08,152 - INFO - ('127.0.0.1', 58203) adresinden yeni baðlantý
+2025-01-10 18:09:08,180 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:08,438 - INFO - ('127.0.0.1', 58205) adresinden yeni baðlantý
+2025-01-10 18:09:08,478 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:11,194 - INFO - ('127.0.0.1', 58228) adresinden yeni baðlantý
+2025-01-10 18:09:11,209 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:12,204 - INFO - ('127.0.0.1', 58230) adresinden yeni baðlantý
+2025-01-10 18:09:12,252 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:12,482 - INFO - ('127.0.0.1', 58232) adresinden yeni baðlantý
+2025-01-10 18:09:12,513 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:15,232 - INFO - ('127.0.0.1', 58249) adresinden yeni baðlantý
+2025-01-10 18:09:15,273 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:16,225 - INFO - ('127.0.0.1', 58252) adresinden yeni baðlantý
+2025-01-10 18:09:16,255 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:16,507 - INFO - ('127.0.0.1', 58255) adresinden yeni baðlantý
+2025-01-10 18:09:16,540 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:19,252 - INFO - ('127.0.0.1', 58263) adresinden yeni baðlantý
+2025-01-10 18:09:19,290 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:20,244 - INFO - ('127.0.0.1', 58265) adresinden yeni baðlantý
+2025-01-10 18:09:20,279 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:20,507 - INFO - ('127.0.0.1', 58267) adresinden yeni baðlantý
+2025-01-10 18:09:20,539 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:23,266 - INFO - ('127.0.0.1', 58276) adresinden yeni baðlantý
+2025-01-10 18:09:23,267 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:24,270 - INFO - ('127.0.0.1', 58279) adresinden yeni baðlantý
+2025-01-10 18:09:24,295 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:24,519 - INFO - ('127.0.0.1', 58281) adresinden yeni baðlantý
+2025-01-10 18:09:24,545 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:27,287 - INFO - ('127.0.0.1', 58289) adresinden yeni baðlantý
+2025-01-10 18:09:27,317 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:28,263 - INFO - ('127.0.0.1', 58292) adresinden yeni baðlantý
+2025-01-10 18:09:28,290 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:28,555 - INFO - ('127.0.0.1', 58294) adresinden yeni baðlantý
+2025-01-10 18:09:28,582 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:31,325 - INFO - ('127.0.0.1', 58302) adresinden yeni baðlantý
+2025-01-10 18:09:31,352 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:32,291 - INFO - ('127.0.0.1', 58304) adresinden yeni baðlantý
+2025-01-10 18:09:32,330 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:32,571 - INFO - ('127.0.0.1', 58306) adresinden yeni baðlantý
+2025-01-10 18:09:32,595 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:35,346 - INFO - ('127.0.0.1', 58314) adresinden yeni baðlantý
+2025-01-10 18:09:35,372 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:36,314 - INFO - ('127.0.0.1', 58316) adresinden yeni baðlantý
+2025-01-10 18:09:36,349 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:36,593 - INFO - ('127.0.0.1', 58318) adresinden yeni baðlantý
+2025-01-10 18:09:36,621 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:09:39,347 - INFO - ('127.0.0.1', 58326) adresinden yeni baðlantý
+2025-01-10 18:09:39,372 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:09:40,328 - INFO - ('127.0.0.1', 58328) adresinden yeni baðlantý
+2025-01-10 18:09:40,370 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:09:40,593 - INFO - ('127.0.0.1', 58330) adresinden yeni baðlantý
+2025-01-10 18:09:40,618 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:38:24,359 - INFO - Abone Monitörü Baþlatýlýyor
+2025-01-10 18:38:24,372 - INFO - Sunucu localhost:6000 adresinde dinliyor
+2025-01-10 18:44:22,226 - INFO - Abone Monitörü Baþlatýlýyor
+2025-01-10 18:44:22,230 - INFO - Sunucu localhost:6000 adresinde dinliyor
+2025-01-10 18:45:54,087 - INFO - ('127.0.0.1', 58812) adresinden yeni baðlantý
+2025-01-10 18:45:54,115 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 18:45:54,968 - INFO - ('127.0.0.1', 58814) adresinden yeni baðlantý
+2025-01-10 18:45:54,975 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 18:45:55,764 - INFO - ('127.0.0.1', 58816) adresinden yeni baðlantý
+2025-01-10 18:45:55,773 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 18:45:58,074 - INFO - ('127.0.0.1', 58824) adresinden yeni baðlantý
+2025-01-10 18:45:58,101 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 18:45:59,006 - INFO - ('127.0.0.1', 58826) adresinden yeni baðlantý
+2025-01-10 18:45:59,046 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 18:45:59,790 - INFO - ('127.0.0.1', 58828) adresinden yeni baðlantý
+2025-01-10 18:45:59,815 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 18:46:02,118 - INFO - ('127.0.0.1', 58836) adresinden yeni baðlantý
+2025-01-10 18:46:02,143 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 18:46:03,024 - INFO - ('127.0.0.1', 58838) adresinden yeni baðlantý
+2025-01-10 18:46:03,048 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 18:46:03,804 - INFO - ('127.0.0.1', 58840) adresinden yeni baðlantý
+2025-01-10 18:46:03,827 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 18:46:06,126 - INFO - ('127.0.0.1', 58848) adresinden yeni baðlantý
+2025-01-10 18:46:06,150 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 18:46:07,030 - INFO - ('127.0.0.1', 58850) adresinden yeni baðlantý
+2025-01-10 18:46:07,053 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 18:46:07,813 - INFO - ('127.0.0.1', 58852) adresinden yeni baðlantý
+2025-01-10 18:46:07,836 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 18:46:10,167 - INFO - ('127.0.0.1', 58860) adresinden yeni baðlantý
+2025-01-10 18:46:10,189 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 18:46:11,039 - INFO - ('127.0.0.1', 58862) adresinden yeni baðlantý
+2025-01-10 18:46:11,063 - INFO - Sunucu3 güncellendi: 1 abone
+2025-01-10 18:46:11,858 - INFO - ('127.0.0.1', 58865) adresinden yeni baðlantý
+2025-01-10 18:46:11,881 - INFO - Sunucu2 güncellendi: 1 abone
+2025-01-10 18:46:14,170 - INFO - ('127.0.0.1', 58877) adresinden yeni baðlantý
+2025-01-10 18:46:14,195 - INFO - Sunucu1 güncellendi: 1 abone
+2025-01-10 18:46:15,067 - INFO - ('127.0.0.1', 58879) adresinden yeni baðlantý
+2025-01-10 18:46:15,094 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:46:15,880 - INFO - ('127.0.0.1', 58881) adresinden yeni baðlantý
+2025-01-10 18:46:15,904 - INFO - Sunucu2 güncellendi: 2 abone
+2025-01-10 18:46:18,178 - INFO - ('127.0.0.1', 58891) adresinden yeni baðlantý
+2025-01-10 18:46:18,205 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:46:19,081 - INFO - ('127.0.0.1', 58893) adresinden yeni baðlantý
+2025-01-10 18:46:19,105 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 18:46:19,869 - INFO - ('127.0.0.1', 58895) adresinden yeni baðlantý
+2025-01-10 18:46:19,893 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:22,912 - INFO - ('127.0.0.1', 58903) adresinden yeni baðlantý
+2025-01-10 18:46:22,936 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 18:46:23,082 - INFO - ('127.0.0.1', 58905) adresinden yeni baðlantý
+2025-01-10 18:46:23,105 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 18:46:23,908 - INFO - ('127.0.0.1', 58907) adresinden yeni baðlantý
+2025-01-10 18:46:23,934 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:26,206 - INFO - ('127.0.0.1', 58915) adresinden yeni baðlantý
+2025-01-10 18:46:26,230 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 18:46:27,109 - INFO - ('127.0.0.1', 58917) adresinden yeni baðlantý
+2025-01-10 18:46:27,132 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 18:46:27,920 - INFO - ('127.0.0.1', 58919) adresinden yeni baðlantý
+2025-01-10 18:46:27,921 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:30,213 - INFO - ('127.0.0.1', 58928) adresinden yeni baðlantý
+2025-01-10 18:46:30,235 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 18:46:31,131 - INFO - ('127.0.0.1', 58930) adresinden yeni baðlantý
+2025-01-10 18:46:31,158 - INFO - Sunucu3 güncellendi: 3 abone
+2025-01-10 18:46:31,942 - INFO - ('127.0.0.1', 58932) adresinden yeni baðlantý
+2025-01-10 18:46:31,967 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:34,234 - INFO - ('127.0.0.1', 58940) adresinden yeni baðlantý
+2025-01-10 18:46:34,260 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 18:46:35,153 - INFO - ('127.0.0.1', 58942) adresinden yeni baðlantý
+2025-01-10 18:46:35,176 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:46:35,965 - INFO - ('127.0.0.1', 58944) adresinden yeni baðlantý
+2025-01-10 18:46:35,991 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:38,285 - INFO - ('127.0.0.1', 58953) adresinden yeni baðlantý
+2025-01-10 18:46:38,310 - INFO - Sunucu1 güncellendi: 3 abone
+2025-01-10 18:46:39,188 - INFO - ('127.0.0.1', 58955) adresinden yeni baðlantý
+2025-01-10 18:46:39,216 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:46:39,996 - INFO - ('127.0.0.1', 58957) adresinden yeni baðlantý
+2025-01-10 18:46:40,026 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:42,304 - INFO - ('127.0.0.1', 58966) adresinden yeni baðlantý
+2025-01-10 18:46:42,327 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:46:43,191 - INFO - ('127.0.0.1', 58968) adresinden yeni baðlantý
+2025-01-10 18:46:43,215 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:46:44,017 - INFO - ('127.0.0.1', 58970) adresinden yeni baðlantý
+2025-01-10 18:46:44,040 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:46,295 - INFO - ('127.0.0.1', 58978) adresinden yeni baðlantý
+2025-01-10 18:46:46,317 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:46:47,213 - INFO - ('127.0.0.1', 58980) adresinden yeni baðlantý
+2025-01-10 18:46:47,236 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:46:48,009 - INFO - ('127.0.0.1', 58982) adresinden yeni baðlantý
+2025-01-10 18:46:48,033 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:50,343 - INFO - ('127.0.0.1', 58990) adresinden yeni baðlantý
+2025-01-10 18:46:50,366 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:46:51,233 - INFO - ('127.0.0.1', 58992) adresinden yeni baðlantý
+2025-01-10 18:46:51,256 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:46:52,046 - INFO - ('127.0.0.1', 58994) adresinden yeni baðlantý
+2025-01-10 18:46:52,071 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:54,345 - INFO - ('127.0.0.1', 59002) adresinden yeni baðlantý
+2025-01-10 18:46:54,368 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:46:55,251 - INFO - ('127.0.0.1', 59004) adresinden yeni baðlantý
+2025-01-10 18:46:55,275 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:46:56,078 - INFO - ('127.0.0.1', 59006) adresinden yeni baðlantý
+2025-01-10 18:46:56,101 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:46:58,378 - INFO - ('127.0.0.1', 59014) adresinden yeni baðlantý
+2025-01-10 18:46:58,402 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:46:59,282 - INFO - ('127.0.0.1', 59016) adresinden yeni baðlantý
+2025-01-10 18:46:59,299 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:47:00,090 - INFO - ('127.0.0.1', 59018) adresinden yeni baðlantý
+2025-01-10 18:47:00,114 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:47:02,387 - INFO - ('127.0.0.1', 59026) adresinden yeni baðlantý
+2025-01-10 18:47:02,398 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:47:03,301 - INFO - ('127.0.0.1', 59028) adresinden yeni baðlantý
+2025-01-10 18:47:03,312 - INFO - Sunucu3 güncellendi: 2 abone
+2025-01-10 18:47:04,111 - INFO - ('127.0.0.1', 59030) adresinden yeni baðlantý
+2025-01-10 18:47:04,123 - INFO - Sunucu2 güncellendi: 3 abone
+2025-01-10 18:47:06,408 - INFO - ('127.0.0.1', 59038) adresinden yeni baðlantý
+2025-01-10 18:47:06,420 - INFO - Sunucu1 güncellendi: 2 abone
+2025-01-10 18:47:07,310 - INFO - ('127.0.0.1', 59040) adresinden yeni baðlantý
+2025-01-10 18:47:07,323 - INFO - Sunucu3 güncellendi: 2 abone

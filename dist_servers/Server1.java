@@ -18,7 +18,7 @@ public class Server1 {
     public static void main(String[] args) {
         try {
             serverSocket = new ServerSocket(SERVER_PORT);
-            System.out.println("Server1 started on port: " + SERVER_PORT);
+            System.out.println("Server1 port üstünde çalıştırıldı: " + SERVER_PORT);
 
             // Start the client connection handler in a new thread
             new Thread(Server1::processClientConnections).start();
@@ -30,7 +30,7 @@ public class Server1 {
             new Thread(Server1::sendPeriodicCapacityUpdate).start();
 
         } catch (IOException e) {
-            System.err.println("Error initializing server: " + e.getMessage());
+            System.err.println("Sunucu başlatılırken hata oluştu: " + e.getMessage());
             e.printStackTrace();
         }
     }
@@ -41,7 +41,7 @@ public class Server1 {
                 Socket clientSocket = serverSocket.accept();
                 handleClientRequest(clientSocket);
             } catch (IOException e) {
-                System.err.println("Error accepting client connection: " + e.getMessage());
+                System.err.println("İstemci bağlantısını kabul ederken hata oluştu: " + e.getMessage());
                 e.printStackTrace();
             }
         }
@@ -60,13 +60,13 @@ public class Server1 {
                             int id = Integer.parseInt(parts[0]);
                             String name = parts[1];
                             subscriberMap.put(id, name);
-                            System.out.println("Subscriber info received from another server: " + id + " - " + name);
+                            System.out.println("Başka bir sunucudan alınan abone bilgileri: " + id + " - " + name);
                         }
                     }
                 }
             }
         } catch (IOException e) {
-            System.err.println("Error receiving updates from other servers: " + e.getMessage());
+            System.err.println("Diğer sunuculardan güncellemeler alınırken hata oluştu: " + e.getMessage());
             e.printStackTrace();
         }
     }
@@ -79,15 +79,15 @@ public class Server1 {
 
             if (subscriber.getDemand() == SubscriberOuterClass.Subscriber.Demand.SUBS) {
                 subscriberMap.put(subscriber.getID(), subscriber.getNameSurname());
-                System.out.println("New subscriber added: " + subscriber);
+                System.out.println("Yeni Abone Eklendi: " + subscriber);
                 forwardSubscriberInfoToOtherServers(subscriber);
             } else if (subscriber.getDemand() == SubscriberOuterClass.Subscriber.Demand.DEL) {
                 subscriberMap.remove(subscriber.getID());
-                System.out.println("Subscriber removed: " + subscriber);
+                System.out.println("Abone Silindi: " + subscriber);
             }
 
         } catch (IOException e) {
-            System.err.println("Error processing client request: " + e.getMessage());
+            System.err.println("İstemci isteği işlenirken hata oluştu: " + e.getMessage());
             e.printStackTrace();
         }
     }
@@ -110,7 +110,7 @@ public class Server1 {
             writer.println(message);
 
         } catch (IOException e) {
-            System.err.println("Failed to send message to server on port: " + port);
+            System.err.println("Bağlantı noktasındaki sunucuya mesaj gönderilemedi: " + port);
             e.printStackTrace();
         }
     }
@@ -121,7 +121,7 @@ public class Server1 {
                 sendCapacityToAdmin();
                 Thread.sleep(2000);
             } catch (InterruptedException e) {
-                System.err.println("Periodic capacity update interrupted: " + e.getMessage());
+                System.err.println("Periyodik kapasite güncellemesi kesintiye uğradı: " + e.getMessage());
                 e.printStackTrace();
             }
         }
@@ -138,10 +138,10 @@ public class Server1 {
             capacity.writeTo(output);
             output.flush();
 
-            System.out.println("Capacity info sent to admin: " + subscriberMap.size());
+            System.out.println("Kapasite bilgisi yöneticiye gönderildi: " + subscriberMap.size());
 
         } catch (IOException e) {
-            System.err.println("Failed to send capacity info to admin: " + e.getMessage());
+            System.err.println("Kapasite bilgisi yöneticiye gönderilemedi: " + e.getMessage());
             e.printStackTrace();
         }
     }

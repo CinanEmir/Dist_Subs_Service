@@ -10,11 +10,11 @@ public class SubscriptionClient2 {
 
     public static void main(String[] args) {
         try (Socket clientSocket = new Socket(SERVER_ADDRESS, SERVER_PORT)) {
-            System.out.println("Sunucuya başarıyla bağlanıldı: " + SERVER_ADDRESS + ":" + SERVER_PORT);
+            System.out.println("Sunucuyla bağlantı kuruldu: " + SERVER_ADDRESS + ":" + SERVER_PORT);
             InputStream socketInput = clientSocket.getInputStream();
             OutputStream socketOutput = clientSocket.getOutputStream();
 
-            System.out.println("Abone ol (A) ya da aboneliği iptal et (B):");
+            System.out.println("Abone ol (A) ya da aboneliğini sonlandır (B):");
             Scanner scanner = new Scanner(System.in);
             String userChoice = scanner.nextLine();
 
@@ -22,12 +22,12 @@ public class SubscriptionClient2 {
                 // Abonelik talebi gönder
                 SubscriberOuterClass.Subscriber subscriptionRequest = SubscriberOuterClass.Subscriber.newBuilder()
                         .setID(103)
-                        .setNameSurname("Murat Sarı")
+                        .setNameSurname("Mehmet ER")
                         .setDemand(SubscriberOuterClass.Subscriber.Demand.SUBS)
                         .build();
                 subscriptionRequest.writeTo(socketOutput);
                 socketOutput.flush();
-                System.out.println("Abonelik talebi başarıyla gönderildi: " + subscriptionRequest);
+                System.out.println("Abonelik talebiniz başarıyla alındı: " + subscriptionRequest);
             } else if (userChoice.equalsIgnoreCase("B")) {
                 // Abonelik iptali talebi gönder
                 SubscriberOuterClass.Subscriber unsubscribeRequest = SubscriberOuterClass.Subscriber.newBuilder()
@@ -36,12 +36,12 @@ public class SubscriptionClient2 {
                         .build();
                 unsubscribeRequest.writeTo(socketOutput);
                 socketOutput.flush();
-                System.out.println("Abonelik iptal talebi başarıyla gönderildi: " + unsubscribeRequest);
+                System.out.println("Abonelik iptal talebiniz başarıyla alındı: " + unsubscribeRequest);
             } else {
                 System.out.println("Geçersiz seçim. Lütfen 'A' veya 'B' giriniz.");
             }
         } catch (IOException ex) {
-            System.out.println("Sunucuya bağlantı sağlanamadı: " + SERVER_ADDRESS + ":" + SERVER_PORT);
+            System.out.println("Sunucuya bağlantı kurulamadı: " + SERVER_ADDRESS + ":" + SERVER_PORT);
             ex.printStackTrace();
         }
     }

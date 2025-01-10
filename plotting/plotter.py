@@ -9,9 +9,9 @@ import threading
 class SubscriberMonitor:
     HOST = 'localhost'
     PORT = 6000
-    DISCONNECT_THRESHOLD = 5  # Seconds
+    DISCONNECT_THRESHOLD = 5  # Saniye
     MAX_SUBSCRIBERS = 5  # Y ekseni limiti
-    UPDATE_INTERVAL = 0.01  # Plot güncelleme aralığı
+    UPDATE_INTERVAL = 0.01  # Grafik güncelleme aralığı
     SOCKET_TIMEOUT = 1
 
     def __init__(self):
@@ -26,7 +26,7 @@ class SubscriberMonitor:
             level=logging.INFO,
             format='%(asctime)s - %(levelname)s - %(message)s',
             handlers=[
-                logging.FileHandler('subscriber_monitor.log'),
+                logging.FileHandler('abone_monitor.log'),
                 logging.StreamHandler()
             ]
         )
@@ -35,7 +35,7 @@ class SubscriberMonitor:
     def create_plot(self):
         plt.ion()
         self.fig, self.ax = plt.subplots(figsize=(10, 6))
-        self.fig.canvas.manager.set_window_title('Real-time Subscriber Monitor')
+        self.fig.canvas.manager.set_window_title('Gerçek Zamanlı Abone Monitörü')
         # Basit stil ayarları
         self.ax.set_facecolor('#f0f0f0')
         self.fig.patch.set_facecolor('white')
@@ -59,8 +59,8 @@ class SubscriberMonitor:
                         f'{int(height)}',
                         ha='center', va='bottom')
 
-        self.ax.set_ylabel('Subscriber Count (Normalized)', fontsize=12)
-        self.ax.set_title('Real-time Subscriber Distribution', fontsize=14)
+        self.ax.set_ylabel('Abone Sayısı (Normalize Edilmiş)', fontsize=12)
+        self.ax.set_title('Gerçek Zamanlı Abone Dağılımı', fontsize=14)
         self.ax.set_ylim(0, self.MAX_SUBSCRIBERS)
         
         # Grid ekle
@@ -76,27 +76,27 @@ class SubscriberMonitor:
             for server, last_update in self.last_update_times.items():
                 if current_time - last_update > self.DISCONNECT_THRESHOLD:
                     if self.subscriber_counts[server] != 0:
-                        self.logger.warning(f"{server} connection stale - resetting count")
+                        self.logger.warning(f"{server} bağlantısı eskidi - sayıyı sıfırlıyor")
                         self.subscriber_counts[server] = 0
 
     def process_capacity_data(self, data):
         capacity = Capacity()
         try:
             capacity.ParseFromString(data)
-            server_name = f"Server{capacity.server_port % 4000}"
+            server_name = f"Sunucu{capacity.server_port % 4000}"
             
             with self.lock:
                 self.subscriber_counts[server_name] = capacity.subscriber_count
                 self.last_update_times[server_name] = time.time()
                 
-            self.logger.info(f"Updated {server_name}: {capacity.subscriber_count} subscribers")
+            self.logger.info(f"{server_name} güncellendi: {capacity.subscriber_count} abone")
             return True
         except Exception as e:
-            self.logger.error(f"Failed to parse capacity data: {e}")
+            self.logger.error(f"Kapsite verisi ayrıştırılamadı: {e}")
             return False
 
     def handle_client_connection(self, conn, addr):
-        self.logger.info(f"New connection from {addr}")
+        self.logger.info(f"{addr} adresinden yeni bağlantı")
         try:
             data = b""
             while True:
@@ -108,19 +108,19 @@ class SubscriberMonitor:
             if data:
                 self.process_capacity_data(data)
         except Exception as e:
-            self.logger.error(f"Error handling client connection: {e}")
+            self.logger.error(f"Müşteri bağlantısı işlenirken hata: {e}")
         finally:
             conn.close()
 
     def start_monitoring(self):
         self.create_plot()
-        self.logger.info("Starting Subscriber Monitor")
+        self.logger.info("Abone Monitörü Başlatılıyor")
 
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server_socket:
             server_socket.bind((self.HOST, self.PORT))
             server_socket.listen(5)
             server_socket.settimeout(self.SOCKET_TIMEOUT)
-            self.logger.info(f"Server listening on {self.HOST}:{self.PORT}")
+            self.logger.info(f"Sunucu {self.HOST}:{self.PORT} adresinde dinliyor")
 
             while self.running:
                 try:
@@ -138,10 +138,10 @@ class SubscriberMonitor:
                         continue
 
                 except KeyboardInterrupt:
-                    self.logger.info("Shutting down monitor...")
+                    self.logger.info("Monitör kapatılıyor...")
                     self.running = False
                 except Exception as e:
-                    self.logger.error(f"Unexpected error: {e}")
+                    self.logger.error(f"Beklenmeyen hata: {e}")
 
 def main():
     monitor = SubscriberMonitor()

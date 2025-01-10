@@ -18,7 +18,7 @@ public class Server3 {
     public static void main(String[] args) {
         try {
             serverSocket = new ServerSocket(SERVER_PORT);
-            System.out.println("Server3 is active on port: " + SERVER_PORT);
+            System.out.println("Sunucu3 bağlantı noktasında etkin: " + SERVER_PORT);
 
             // Thread: Accept and process client subscription requests
             new Thread(Server3::acceptClientConnections).start();
@@ -40,7 +40,7 @@ public class Server3 {
                 Socket clientSocket = serverSocket.accept();
                 processClientRequest(clientSocket);
             } catch (IOException e) {
-                System.err.println("Error: Unable to accept client connection.");
+                System.err.println("Hata: İstemci bağlantısı kabul edilemiyor.");
                 e.printStackTrace();
             }
         }
@@ -60,13 +60,13 @@ public class Server3 {
                                 int id = Integer.parseInt(parts[0]);
                                 String name = parts[1];
                                 subscriberRegistry.put(id, name);
-                                System.out.println("Subscriber data received from another server: " + id + " - " + name);
+                                System.out.println("Başka bir sunucudan alınan abone verileri: " + id + " - " + name);
                             }
                         }
                     }
                 }
             } catch (IOException e) {
-                System.err.println("Error receiving updates from other servers: " + e.getMessage());
+                System.err.println("Diğer sunuculardan güncellemeler alınırken hata oluştu: " + e.getMessage());
                 e.printStackTrace();
             }
         }
@@ -80,12 +80,12 @@ public class Server3 {
 
             if (subscriber.getDemand() == SubscriberOuterClass.Subscriber.Demand.SUBS) {
                 subscriberRegistry.put(subscriber.getID(), subscriber.getNameSurname());
-                System.out.println("New subscriber added: " + subscriber);
+                System.out.println("Yeni abone eklendi: " + subscriber);
                 forwardSubscriberToOtherServers(subscriber);
 
             } else if (subscriber.getDemand() == SubscriberOuterClass.Subscriber.Demand.DEL) {
                 subscriberRegistry.remove(subscriber.getID());
-                System.out.println("Subscriber removed: " + subscriber);
+                System.out.println("Abone Silindi: " + subscriber);
             }
 
         } catch (IOException e) {
@@ -111,7 +111,7 @@ public class Server3 {
             writer.println(message);
 
         } catch (IOException e) {
-            System.err.println("Failed to send message to server on port: " + port);
+            System.err.println("Bağlantı noktasındaki sunucuya mesaj gönderilemedi: " + port);
             e.printStackTrace();
         }
     }
@@ -122,7 +122,7 @@ public class Server3 {
                 sendCapacityInfoToAdmin();
                 Thread.sleep(2000);
             } catch (InterruptedException e) {
-                System.err.println("Error: Periodic capacity update interrupted.");
+                System.err.println("Hata: Periyodik kapasite güncellemesi kesintiye uğradı.");
                 e.printStackTrace();
             }
         }
@@ -139,10 +139,10 @@ public class Server3 {
             capacity.writeTo(output);
             output.flush();
 
-            System.out.println("Capacity info sent to admin: " + subscriberRegistry.size());
+            System.out.println("Kapasite bilgisi yöneticiye gönderildi: " + subscriberRegistry.size());
 
         } catch (IOException e) {
-            System.err.println("Failed to send capacity info to admin.");
+            System.err.println("Kapasite bilgisi yöneticiye gönderilemedi.");
             e.printStackTrace();
         }
     }
